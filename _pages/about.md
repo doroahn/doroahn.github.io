@@ -14,19 +14,19 @@ I received my Ph.D in Linguistics from <a href="https://linguistics.fas.harvard.
 Recent News
 ======
 
-🎉Dorothy Ahn and Ziling Zhu's article on Mandarin bridging accepted with minor revisions at Natural Language Semantics!
+🎉Dorothy Ahn and Ziling Zhu's article on Mandarin bridging accepted with minor revisions at **Natural Language Semantics**!
 
 📑The proceedings paper from my **SuB 2023** invited talk on pronouns and definites is now published <a href="https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/1104">[pdf]</a>
 
 📑The proceedings paper from my **WCCFL 41** invited talk is now published <a href="https://www.lingref.com/cpp/wccfl/41/paper3727.pdf">[pdf]</a>
 
-🎤Vincent Czarnecki and Dorothy Ahn to present on _Recycling Spatial Representations for Temporal Interpretations_ at **SuB 2025** <a href="https://doroahn.github.io/dorothyahn.github.io/files/czarnecki_ahn_2025_sub30-abstract.pdf">[abstract]</a>
+🎤<a href="https://www.vinczarnecki.com/">Vincent Czarnecki</a> and Dorothy Ahn to present on _Recycling Spatial Representations for Temporal Interpretations_ at **SuB 2025** <a href="https://doroahn.github.io/dorothyahn.github.io/files/czarnecki_ahn_2025_sub30-abstract.pdf">[abstract]</a>
 
 🎤Dorothy Ahn and Ying Zhang to present on _kind-referring demonstratives_ at <a href="https://vicom.info/sub30-lingdem/">LingDem</a>, a special session of **SuB 2025** <a href="https://doroahn.github.io/dorothyahn.github.io/files/zhang-ahn-SuB2025-abstract.pdf">[abstract]</a>
 
 🎙️Dorothy Ahn to give invited talk at **LENLS 21** in November, 2025
 
-🎤Dorothy Ahn and Ariela Ye presented on Korean honorifics at **SALT 2025** at Harvard. <a href="https://saltconf.github.io/salt35/">[SALT35]</a> <a href="https://osf.io/93tng/">[osf]</a> 
+🎤Ariela Ye and Dorothy Ahn presented on Korean honorifics at **SALT 2025** at Harvard. <a href="https://saltconf.github.io/salt35/">[SALT35]</a> <a href="https://osf.io/93tng/">[osf]</a> 
 
 
 
