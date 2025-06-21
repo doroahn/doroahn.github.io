@@ -20,9 +20,9 @@ Recent News
 
 📑The proceedings paper from my **WCCFL 41** invited talk is now published <a href="https://www.lingref.com/cpp/wccfl/41/paper3727.pdf">[pdf]</a>
 
-🎤Vincent Czarnecki and Dorothy Ahn to present on _Recycling Spatial Representations for Temporal Interpretations_ at **SuB 2025** <a href=/files/czarnecki_ahn_2025_sub30-abstract.pdf>[abstract]</a>
+🎤Vincent Czarnecki and Dorothy Ahn to present on _Recycling Spatial Representations for Temporal Interpretations_ at **SuB 2025** <a href="https://doroahn.github.io/dorothyahn.github.io/files/czarnecki_ahn_2025_sub30-abstract.pdf">[abstract]</a>
 
-🎤Dorothy Ahn and Ying Zhang to present on _kind-referring demonstratives_ at <a href="https://vicom.info/sub30-lingdem/">LingDem</a>, a special session of **SuB 2025** <a href="/files/zhang-ahn-SuB2025-abstract.pdf">[abstract]</a>
+🎤Dorothy Ahn and Ying Zhang to present on _kind-referring demonstratives_ at <a href="https://vicom.info/sub30-lingdem/">LingDem</a>, a special session of **SuB 2025** <a href="https://doroahn.github.io/dorothyahn.github.io/files/zhang-ahn-SuB2025-abstract.pdf">[abstract]</a>
 
 🎙️Dorothy Ahn to give invited talk at **LENLS 21** in November, 2025
 
