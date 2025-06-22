@@ -9,11 +9,25 @@ redirect_from:
 
 {% include base_path %}
 
+<style>
+  .definiteness { color: #679e90; }   /* soft green-blue */
+  .demonstrative { color: #8f9e67; }  /* soft olive green */
+  .loci { color: #679e9e; }           /* bluish teal */
+  .plurality { color: #679e75; }      /* muted green */
+  .quantifiers { color: #9e6767; }    /* muted warm red */
+  .anaphors { color: #7d679e; }       /* desaturated purple */
+  .either { color: #9e8b67; }         /* warm tan / ochre */
+  .honorificity { color: #679e8a; }   /* dusty jade */
+  .verbs { color: #67919e; }          /* muted sky blue */
+  .korean { color: #9e677d; }         /* muted rose */
+</style>
+
+
 **Definiteness and anaphoric expressions**
 
 It is generally assumed that pronouns, definites, and demonstratives are separate semantic elements. However, cross-linguistic studies suggest that the morphosyntactically based distinction between these expressions do not always align with underlying meaning. In this line of work, I argue that the underlying semantics of these expressions are identical except for the restrictions that they carry, proposing a unified analysis that extends the general schema of a definite.
 
-- Ahn, Dorothy. 2024. A four-way distinction in English definite descriptions. Proceedings of SuB28, University of Bochum, Germany 2023. <a href="https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/1104">[pdf]</a>
+- Ahn, Dorothy. 2024. <em class="definiteness">A four-way distinction in English definite descriptions</em>. Proceedings of SuB28, University of Bochum, Germany 2023. <a href="https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/1104">[pdf]</a>
 - Ahn, Dorothy. 2019. THAT thesis: A competition-based mechanism for anaphoric expressions. PhD thesis, Harvard University. <a href="https://ling.auf.net/lingbuzz/004742">[pdf]</a> 
 - Ahn, Dorothy. 2017. Semantics of definite descriptions: A micro-typology. GLOW in Asia 2017, Singapore. February 20-22. <a href="https://glowlinguistics.org/asia11/wp-content/uploads/sites/3/2017/11/v1-ahn.pdf">[pdf]</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:_FxGoFyzp5QC">[🎓google scholar]</a>
 
