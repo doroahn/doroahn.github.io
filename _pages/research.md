@@ -12,18 +12,18 @@ redirect_from:
 <style>
   .definiteness { color: #679e90; }   /* soft green-blue */
   .demonstrative { color: #8f9e67; }  /* soft olive green */
-  .loci { color: #679e9e; }           /* bluish teal */
-  .plurality { color: #679e75; }      /* muted green */
-  .quantifiers { color: #9e6767; }    /* muted warm red */
-  .anaphors { color: #7d679e; }       /* desaturated purple */
-  .either { color: #9e8b67; }         /* warm tan / ochre */
+  .loci { color: #b1a2c7; }          /*purple */
+  .plurality { color: #9e677d; }      /* muted rose */
+  .quantifiers { color: #88c7d6; }    /* muted blue */
+  .anaphors { color: #d6c329; }       /*yellow */
+  .either { color: #d3ccaf; }         /* warm tan / ochre */
   .honorificity { color: #679e8a; }   /* dusty jade */
   .verbs { color: #67919e; }          /* muted sky blue */
-  .korean { color: #9e677d; }         /* muted rose */
+  .korean { color: #6ee5d1; }         /* muted mint */
 </style>
 
 
-**<em class="definiteness">Definiteness and anaphoric expressions</em>**
+**<span class="definiteness">Definiteness and anaphoric expressions</span>**
 
 It is generally assumed that pronouns, definites, and demonstratives are separate semantic elements. However, cross-linguistic studies suggest that the morphosyntactically based distinction between these expressions do not always align with underlying meaning. In this line of work, I argue that the underlying semantics of these expressions are identical except for the restrictions that they carry, proposing a unified analysis that extends the general schema of a definite.
 
@@ -31,7 +31,7 @@ It is generally assumed that pronouns, definites, and demonstratives are separat
 - Ahn, Dorothy. 2019. <em class="definiteness">THAT thesis: A competition-based mechanism for anaphoric expressions</em>. PhD thesis, Harvard University. <a href="https://ling.auf.net/lingbuzz/004742" class="definiteness">[pdf]</a>
 - Ahn, Dorothy. 2017. <em class="definiteness">Semantics of definite descriptions: A micro-typology</em>. GLOW in Asia 2017, Singapore. February 20-22. <a href="https://glowlinguistics.org/asia11/wp-content/uploads/sites/3/2017/11/v1-ahn.pdf" class="definiteness">[pdf]</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:_FxGoFyzp5QC">[🎓google scholar]</a>
 
-**<em class="demonstrative">Demonstratives and pointing</em>**
+**<span class="demonstrative">Demonstratives and pointing</span>**
 
 Demonstratives received much attention in semantics and philosophy for their deictic and non-deictic uses. In gesture linguistics, demonstratives also show a unique behavior of bringing meaning of gesture to at-issue. I propose a new analysis of demonstratives based their ability to refer to non-familiar entities.
 
@@ -41,7 +41,7 @@ Demonstratives received much attention in semantics and philosophy for their dei
 - Ahn, Dorothy & Jenneke van der Wal. 2019. <em class="demonstrative">What does that Lugwere demonstratives refer to?</em> A semantic analysis of proximity and exteriority. In Studies in African Linguistics Vol 48. <a href="https://journals.flvc.org/sal/article/view/114927" class="demonstrative">[pdf]</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:kNdYIx-mwKoC">[🎓google scholar]</a>
 - Ahn, Dorothy & Kathryn Davidson. 2017. <em class="demonstrative">Where pointing matters: English and Korean demonstratives</em>. NELS 2017, Iceland. October 27-20. <a href="/files/ahndavidson20217.pdf" class="demonstrative">[pdf]</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:u-x6o8ySG0sC">[🎓google scholar]</a>
 
-**<em class="loci">ASL loci use</em>**
+**<span class="loci">ASL loci use</span>**
 
 Sign languages such as American Sign Language (ASL) can use the indexical pointing handshape (IX; indexical) to refer to entities present in the context by pointing directly at them. Signers can also point to abstract locations in the signing space (locus, loci) to refer to entities who are not present in the content but familiar in the discourse. This use of loci in sign languages has been analyzed as overt instantiations of a referent tracking mechanism that is covert in spoken languages (see Lillo-Martin & Klima 1990). I propose an alternative account of loci as locational restrictions that function as modifiers added to anaphoric expressions.
 
@@ -50,14 +50,14 @@ Sign languages such as American Sign Language (ASL) can use the indexical pointi
 - Kocab, Annemarie, Dorothy Ahn, Gunnar Lund & Kathryn Davidson. 2019. <em class="loci">Reconsidering agreement in sign languages</em>. Poster at GLOW 42, Oslo, Norway. May 7-10. <a href="https://www.dorothyahn.com/_files/ugd/697a33_b47654000d8e4d66887df8a8b85c6a0a.pdf" class="loci">[poster]</a>
 - Ahn, Dorothy. 2019. <em class="loci">Anaphoric expressions in ASL</em>. MS, Lingbuzz. <a href="https://ling.auf.net/lingbuzz/004594" class="loci">[pdf]</a>
 
-**<em class="plurality">Plurality and number</em>**
+**<span class="plurality">Plurality and number</span>**
 
 Unlike languages like English that obligatorily marks number, many languages are 'optional number languages', meaning that they allow bare noun forms to be compatible with both singular and plural interpretations. I investigate one of the languages that have been identified as having an optional plural marker, Korean, and show that there is a more systematic restriction on when plural marker can be omitted in Korean. In Ahn, Saha, & Sauerland 2020, we present a novel observation that Korean and Bangla plural markers behave as positive polarity items, while in Ahn & Snedeker, we argue that definitely construed nouns must be number marked in Korean.
 
 - Ahn, Dorothy, Ankana Saha, & Uli Sauerland. 2020. <em class="plurality">Positively Polar Plurals</em>. Poster at SALT 30, Cornell. August 17-20, 2020 <a href="https://osf.io/7dtbw/" class="plurality">[osf]</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:5nxA0vEk-isC">[🎓google scholar]</a>
 - Ahn, Dorothy & Jesse Snedeker. 2021. <em class="plurality">Early acquisition of plural morphology in a classifier language: Data from Korean 2-4 year olds</em>. Language Learning and Development. <a href="https://www.tandfonline.com/eprint/JDYWNDGUDDEFT3T82K6V/full?target=10.1080/15475441.2021.1922280" class="plurality">[pdf]</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:WF5omc3nYNoC">[🎓google scholar]</a>
 
-**​<em class="quantifiers">Relative measure constructions</em>**
+**​<span class="quantifiers">Relative measure constructions</span>**
 
 Conservativity of determiners is one of the universal constraints assumed for natural language semantics. In this line of work, we look at proportional quantifiers such as sixty percent in Harvard hired sixty percent women that seem non-conservative on the surface, identify cross-linguistic generalizations on how the non-conservative construals are morphosyntactically marked, and propose an analysis that preserves conservativity at the LF level.
 
@@ -66,7 +66,7 @@ Conservativity of determiners is one of the universal constraints assumed for na
 - Ahn, Dorothy. & Uli Sauerland. 2015. <em class="quantifiers">The grammar of relative measurement</em>. Semantics and Linguistic Theory, 25, 125-142. doi:10.3765/salt.v25i0.3062 <a href="https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/25.125" class="quantifiers">[pdf]</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:2osOgNQ5qMEC">[🎓google scholar]</a>
 - Ahn, Dorothy. & Uli Sauerland. 2015. <em class="quantifiers">Reverse Quantification with Proportional Quantifiers</em>. NELS 45: Proceedings of the Forty-Fifth Annual Meeting of the North East Linguistic Society, MIT. <a href="https://www.dorothyahn.com/_files/ugd/697a33_5fa95a929a284f1aa471761ebfb22685.pdf" class="quantifiers">[pdf]</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:UeHWp8X0CEIC">[🎓google scholar]</a>
 
-**<em class="anaphors">Exempt anaphors and logophoricity</em>**
+**<span class="anaphors">Exempt anaphors and logophoricity</span>**
 
 While reflexive anaphors are assumed to be bound locally, there are cases of anaphors that appear outside their binding domain (exempt anaphors). In this line of work, I discuss a case of an exempt anaphor in Korean, caki-casin, and show that the licensing of caki-casin is associated with logophoricity (Charnavel 2012, 2019).
 
@@ -74,13 +74,13 @@ While reflexive anaphors are assumed to be bound locally, there are cases of ana
 - Ahn, Dorothy. 2016. <em class="anaphors">Empathy and deixis: A deictic analysis of giving verbs</em>. Harvard Working Papers in Linguistics.​ <a href="https://www.dorothyahn.com/_files/ugd/697a33_c32eec1edd074b67970750abea3923e3.pdf" class="anaphors">[pdf]</a>
 - Ahn, Dorothy. 2015. <em class="anaphors">Condition A, Exemption, and Logophoricity in Korean</em>. MS (Generals paper), Harvard. <a href="https://www.dorothyahn.com/_files/ugd/697a33_558f767ac2044b9aab5f2dbccfbf1027.pdf" class="anaphors">[pdf]</a>
 
-**<em class="either">Additive either and too</em>** 
+**<span class="either">Additive either and too</span>** 
 
 I propose that additive either in sentences such as Jin did not dance either is underlyingly a disjunction between the antecedent sentence (p in p either) and a propositional anaphor that refers to a contextually salient proposition in the discourse that is restricted by focus. This analysis derives the polarity sensitivity of either, while the conjunction analysis of too correctly predicts the NPI intervention effects of too. 
 
 - Ahn, Dorothy. 2016. <em class="either">NPI intervention of too</em>. Proceedings of Sinn und Bedeutung 20. <a href="https://semanticsarchive.net/sub2015/SeparateArticles/Ahn-SuB20.pdf" class="either">[pdf]</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:YOwf2qJgpHMC">[🎓google scholar]</a>
 - Ahn, Dorothy. 2015. <em class="either">The semantics of additive either</em>. Proceedings of Sinn und Bedeutung 19. <a href="https://semanticsarchive.net/Archive/TVlN2I2Z/sub19proc.pdf" class="either">[pdf]</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:8k81kl-MbHgC">[🎓google scholar]</a>
 
-**<em class="korean">Constructions in Korean</em>**
+**<span class="korean">Constructions in Korean</span>**
 
 - Ahn, Dorothy. 2018. <em class="korean">Korean classifier-less constructions</em>. Proceedings of Sinn und Bedeutung 22. <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:_kc_bZDykSQC">[🎓google scholar]</a>
