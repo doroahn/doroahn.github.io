@@ -16,7 +16,7 @@ I received my Ph.D in Linguistics from <a href="https://linguistics.fas.harvard.
 Recent News
 ======
 
-🎉Dorothy Ahn and <a href="https://sites.google.com/view/zhuziling/">Ziling Zhu</a>'s article on Mandarin bridging accepted with minor revisions at **Natural Language Semantics**!
+🎉Dorothy Ahn and <a href="https://sites.google.com/view/zhuziling/">Ziling Zhu</a>'s article on Mandarin bridging accepted for publication in **Natural Language Semantics** <a href="https://ling.auf.net/lingbuzz/009162">[draft]</a>
 
 📑The proceedings paper from my **SuB 28** invited talk on _A four-way distinction in English definite expressions_ is now published <a href="https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/1104">[pdf]</a>
 
@@ -35,6 +35,7 @@ Publications
 ======
 
 **peer-reviewed journals**
+- **Ahn, Dorothy & Ziling Zhu. to appear. A bridge to definiteness: Identifying unique and relational definites through bridging.** Natural Language Semantics.
 - **Ahn, Dorothy. 2022. Indirectly direct: An account of demonstratives and pointing.** Linguistics & Philosophy. 45: 1345–139.
 - **Ahn, Dorothy & Heejeong Ko. 2022. On non-conservativity of Korean floating quantifiers.** Glossa: a journal of general linguistics. 7(1).
 - **Ahn, Dorothy & Jesse Snedeker. 2021. Early acquisition of plural morphology in a classifier language: Data from Korean 2-4 year olds.** In Language Learning & Development.
