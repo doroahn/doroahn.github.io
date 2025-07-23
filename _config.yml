@@ -28,7 +28,7 @@ author:
   bio              : "a semanticist at Rutgers"
   location         : #"Earth"
   employer         : "Rutgers University"
-  uri              :  "dorothyahn.com"
+  uri              :  #
   email            : "dorothy.ahn@rutgers.edu" 
 
   # Academic websites
