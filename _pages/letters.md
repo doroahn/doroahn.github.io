@@ -4,7 +4,7 @@ title: "Letters of recommendation"
 author_profile: true
 ---
 
-For a strong letter, you want to find someone who can speak about your strengths. Make sure that your letter writer knows you well and can talking about the strengths you want to highlight in your letter. 
+For a strong letter, you want to find someone who can speak about your strengths. Make sure that your letter writer knows you well and can talk about the strengths you want to highlight in your letter. 
 
 
 Information needed
