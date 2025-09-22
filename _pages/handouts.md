@@ -16,7 +16,7 @@ Handouts from talks
       The most descriptive depiction (LINGDEM)
     </td>
     <td>
-      <a href="https://doroahn.github.io/dorothyahn.github.io/files/zhang-ahn-most-descriptive-depiction.pdf">[pdf]</a>
+      <a href="https://doroahn.github.io/files/zhang-ahn-most-descriptive-depiction.pdf">[pdf]</a>
     </td>
   </tr>
   <tr>
