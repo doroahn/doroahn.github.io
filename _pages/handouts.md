@@ -6,9 +6,7 @@ author_profile: true
 
 
 
-**Sinn und Bedeutung 30**
-- Goethe University Frankfurt
-- September 23-27, 2025
+**Sinn und Bedeutung 30** | Goethe University Frankfurt | September 23-27, 2025
 
 
 <table>
