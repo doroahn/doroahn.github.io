@@ -12,7 +12,7 @@ SuB30 - Frankfurt
 ======
 Ying Zhang & Dorothy Ahn
 - The most descriptive depiction (LINGDEM)
-- [pdf]
+- <a href="https://github.com/doroahn/doroahn.github.io/blob/master/files/zhang-ahn-most-descriptive-depiction.pdf">[pdf]</a>
 
 Vincent Czarnecki & Dorothy Ahn
 - Recycling Spatial Representations for Temporal Interpretations: Korean Verb Compunding Constructions
