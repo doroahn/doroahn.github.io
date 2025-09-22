@@ -4,9 +4,9 @@ title: "Handouts"
 author_profile: true
 ---
 
+Handouts from talks
 
-
-**Sinn und Bedeutung 30** | Goethe University Frankfurt | September 23-27, 2025
+**Sinn und Bedeutung 30** \| Goethe University Frankfurt \| September 23-27, 2025
 
 
 <table>
