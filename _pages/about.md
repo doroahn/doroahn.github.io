@@ -22,9 +22,11 @@ Recent News
 
 📑The proceedings paper from my **WCCFL 41** invited talk on _Definite Expressions with and without Deixis_ is now published <a href="https://www.lingref.com/cpp/wccfl/41/paper3727.pdf">[pdf]</a>
 
-🎤<a href="https://www.vinczarnecki.com/">Vincent Czarnecki</a> and Dorothy Ahn to present on <em>Recycling Spatial Representations for Temporal Interpretations</em> at <strong>SuB 2025</strong> <a href="https://doroahn.github.io/files/czarnecki_ahn_2025_sub30-abstract.pdf">[abstract]</a>
+🎤Maria Kouneli and Dorothy Ahn presented on <em>The semantics of demonstrative spreading in Kipsigis</em> at <a href="[https://vicom.info/sub30-lingdem/](https://wp.nyu.edu/artsampscience-nels56/)">NELS56</a> <a href="https://doroahn.github.io/files/ahn-kouneli-2025-nels-kipsigisdem-poster.pdf">[poster]</a>
 
-🎤Ying Zhang and Dorothy Ahn to present on <em>kind-referring demonstratives</em> at <a href="https://vicom.info/sub30-lingdem/">LingDem</a>, a special session of <strong>SuB 2025</strong> <a href="https://doroahn.github.io/files/zhang-ahn-SuB2025-abstract.pdf">[abstract]</a>
+🎤<a href="https://www.vinczarnecki.com/">Vincent Czarnecki</a> and Dorothy Ahn to presented on <em>Recycling Spatial Representations for Temporal Interpretations</em> at <strong>SuB 2025</strong> <a href="https://doroahn.github.io/files/czarnecki_ahn_2025_sub30-abstract.pdf">[abstract]</a>
+
+🎤Ying Zhang and Dorothy Ahn presented on <em>kind-referring demonstratives</em> at <a href="https://vicom.info/sub30-lingdem/">LingDem</a>, a special session of <strong>SuB 2025</strong> <a href="https://doroahn.github.io/files/zhang-ahn-SuB2025-abstract.pdf">[abstract]</a>
 
 🎙️Dorothy Ahn to give invited talk at **LENLS 21** in November, 2025
 
