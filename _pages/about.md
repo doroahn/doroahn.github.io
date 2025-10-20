@@ -13,6 +13,8 @@ As a semanticist interested in cross-linguistic patterns, I investigate how the 
  
 I received my Ph.D in Linguistics from <a href="https://linguistics.fas.harvard.edu/">Harvard University</a> in May 2019 with <a href="https://ling.auf.net/lingbuzz/004742">a dissertation looking at definite expressions</a> under the guidance of <a href="https://linguistics.fas.harvard.edu/people/gennaro-chierchia">Gennaro Chierchia</a>, <a href="https://ulisauerland.github.io/">Uli Sauerland</a>, <a href="https://kathryndavidson.scholars.harvard.edu/">Kate Davidson</a>, and <a href="https://www.harvardlds.org/our-labs/snedeker-lab/">Jesse Snedeker</a>. I am generally interested in elements that are associated (at least structurally) with the nominal domain such as demonstratives, anaphora, number marking, and quantifiers. 
 
+<link rel="stylesheet" href="buttons.css">
+
 Recent News
 ======
 
@@ -20,7 +22,7 @@ Recent News
 
 📑The proceedings paper from my **SuB 28** invited talk on _A four-way distinction in English definite expressions_ is now published <a href="https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/1104">[pdf]</a>
 
-📑The proceedings paper from my **WCCFL 41** invited talk on _Definite Expressions with and without Deixis_ is now published <a href="https://www.lingref.com/cpp/wccfl/41/paper3727.pdf">[pdf]</a> <a class="af-btn" href="[path/to/your.bib](https://www.lingref.com/cpp/wccfl/41/paper3727.pdf)">pdf</a>
+📑The proceedings paper from my **WCCFL 41** invited talk on _Definite Expressions with and without Deixis_ is now published <a href="https://www.lingref.com/cpp/wccfl/41/paper3727.pdf">[pdf]</a> <a class="af-btn" href="https://www.lingref.com/cpp/wccfl/41/paper3727.pdf">pdf</a>
 
 🎤Maria Kouneli and Dorothy Ahn presented on <em>The semantics of demonstrative spreading in Kipsigis</em> at <a href="[https://vicom.info/sub30-lingdem/](https://wp.nyu.edu/artsampscience-nels56/)">NELS56</a> <a href="https://doroahn.github.io/files/ahn-kouneli-2025-nels-kipsigisdem-poster.pdf">[poster]</a>
 
