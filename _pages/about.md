@@ -20,7 +20,7 @@ Recent News
 
 📑The proceedings paper from my **SuB 28** invited talk on _A four-way distinction in English definite expressions_ is now published <a href="https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/1104">[pdf]</a>
 
-📑The proceedings paper from my **WCCFL 41** invited talk on _Definite Expressions with and without Deixis_ is now published <a href="https://www.lingref.com/cpp/wccfl/41/paper3727.pdf">[pdf]</a>
+📑The proceedings paper from my **WCCFL 41** invited talk on _Definite Expressions with and without Deixis_ is now published <a href="https://www.lingref.com/cpp/wccfl/41/paper3727.pdf">[pdf]</a> <a class="af-btn" href="[path/to/your.bib](https://www.lingref.com/cpp/wccfl/41/paper3727.pdf)">pdf</a>
 
 🎤Maria Kouneli and Dorothy Ahn presented on <em>The semantics of demonstrative spreading in Kipsigis</em> at <a href="[https://vicom.info/sub30-lingdem/](https://wp.nyu.edu/artsampscience-nels56/)">NELS56</a> <a href="https://doroahn.github.io/files/ahn-kouneli-2025-nels-kipsigisdem-poster.pdf">[poster]</a>
 
