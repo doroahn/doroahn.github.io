@@ -135,8 +135,7 @@ It is generally assumed that pronouns, definites, and demonstratives are separat
   <a href="javascript:void(0);" class="definiteness" onclick="toggleBib(this)">
     bib
   </a>
-  <pre div class="bib-entry"><code>
-@inproceedings{ahn2017typology,
+  <pre div class="bib-entry"><code>@inproceedings{ahn2017typology,
   title={Definite and demonstrative descriptions: a micro-typology},
   author={Ahn, Dorothy},
   booktitle={Proceedings of {Generative Linguistics in the Old World in Asia 11}},
@@ -147,7 +146,6 @@ It is generally assumed that pronouns, definites, and demonstratives are separat
   pages={33--48}
 }
 </code></pre>
-  </div>
 
 **<span class="demonstrative">Demonstratives and pointing</span>**
 
