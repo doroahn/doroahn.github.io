@@ -7,6 +7,14 @@ redirect_from:
   - /resume
 ---
 
+<script>
+  function toggleBib(button) {
+    const bib = button.nextElementSibling;
+    bib.classList.toggle('visible');
+  }
+</script>
+
+
 {% include base_path %}
 
 <style>
@@ -89,6 +97,21 @@ redirect_from:
   a.korean:hover {
     transform: translateY(-1px);
   }
+
+  .bib-entry {
+    display: none;
+    font-family: monospace;
+    background-color: #f6f6f6;
+    border: 1px solid #ddd;
+    padding: 8px;
+    margin-top: 6px;
+    white-space: pre;
+    border-radius: 4px;
+  }
+
+  .bib-entry.visible {
+    display: block;
+  }
 </style>
 
 
@@ -101,7 +124,23 @@ It is generally assumed that pronouns, definites, and demonstratives are separat
 - Ahn, Dorothy & Ziling Zhu. 2025. <em class="definiteness">A bridge to definiteness: Identifying unique and relational definites through bridging</em>. Natural Language Semantics. <a href="https://link.springer.com/article/10.1007/s11050-025-09237-8" class="definiteness">pdf</a>
 - Ahn, Dorothy. 2024. <em class="definiteness">A four-way distinction in English definite descriptions</em>. Proceedings of SuB28, University of Bochum, Germany 2023. <a href="https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/1104" class="definiteness">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&cstart=20&pagesize=80&citation_for_view=caKoCk4AAAAJ:qjMakFHDy7sC" class="definiteness">🎓google scholar</a>
 - Ahn, Dorothy. 2019. <em class="definiteness">THAT thesis: A competition-based mechanism for anaphoric expressions</em>. PhD thesis, Harvard University. <a href="https://ling.auf.net/lingbuzz/004742" class="definiteness">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:UebtZRa9Y70C" class="definiteness">🎓google scholar</a>
-- Ahn, Dorothy. 2017. <em class="definiteness">Semantics of definite descriptions: A micro-typology</em>. GLOW in Asia 2017, Singapore. February 20-22. <a href="https://glowlinguistics.org/asia11/wp-content/uploads/sites/3/2017/11/v1-ahn.pdf" class="definiteness">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:_FxGoFyzp5QC" class="definiteness">🎓google scholar</a>
+- Ahn, Dorothy. 2017. <em class="definiteness">Semantics of definite descriptions: A micro-typology</em>. GLOW in Asia 2017, Singapore. February 20-22. <a href="https://glowlinguistics.org/asia11/wp-content/uploads/sites/3/2017/11/v1-ahn.pdf" class="definiteness">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:_FxGoFyzp5QC" class="definiteness">🎓google scholar</a> <div>
+  <a href="javascript:void(0);" class="definiteness" onclick="toggleBib(this)">
+    bib
+  </a>
+  <div class="bib-entry">
+@inproceedings{ahn2017typology,
+  title={Definite and demonstrative descriptions: a micro-typology},
+  author={Ahn, Dorothy},
+  booktitle={Proceedings of {Generative Linguistics in the Old World in Asia 11}},
+  volume = 1,
+  publisher = {MIT Working Papers in Linguistics},
+  editor={Erlewine, Michael Yoshitaka},
+  year = {2017},
+  pages={33--48}
+}
+  </div>
+</div>
 
 **<span class="demonstrative">Demonstratives and pointing</span>**
 
