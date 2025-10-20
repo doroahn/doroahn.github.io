@@ -18,99 +18,58 @@ redirect_from:
 {% include base_path %}
 
 <style>
-  /* ---- Base button style ---- */
-  a.definiteness,
-  a.demonstrative,
-  a.loci,
-  a.plurality,
-  a.quantifiers,
-  a.anaphors,
-  a.either,
-  a.honorificity,
-  a.verbs,
-  a.korean {
-    display: inline-block;
-    padding: 0.15em 0.4em;         /* smaller padding = tighter box */
-    margin: 0.1em;
+  a.definiteness, a.demonstrative, a.loci, a.plurality, 
+  a.quantifiers, a.anaphors, a.either, a.honorificity, 
+  a.verbs, a.korean {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
     border: 1px solid currentColor;
-    border-radius: 2px;            /* almost square corners */
+    color: inherit;
     text-decoration: none;
-    font-size: 0.9rem;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial;
-    line-height: 1.2;
-    transition: all 0.15s ease;
+    font-size: 0.85em;
+    padding: 2px 6px;
+    margin: 2px;
+    border-radius: 2px;
+    transition: all 0.2s ease;
   }
 
-  /* ---- Individual colors ---- */
-  .definiteness { color: #679e90; }
-  .demonstrative { color: #8f9e67; }
-  .loci { color: #b1a2c7; }
-  .plurality { color: #9e677d; }
-  .quantifiers { color: #88c7d6; }
-  .anaphors { color: #d6c329; }
-  .either { color: #d3ccaf; }
-  .honorificity { color: #679e8a; }
-  .verbs { color: #67919e; }
-  .korean { color: #6ee5d1; }
-
-  /* ---- Hover/focus effect ---- */
-  a.definiteness:hover,
-  a.definiteness:focus { background-color: #679e90; color: white; }
-
-  a.demonstrative:hover,
-  a.demonstrative:focus { background-color: #8f9e67; color: white; }
-
-  a.loci:hover,
-  a.loci:focus { background-color: #b1a2c7; color: white; }
-
-  a.plurality:hover,
-  a.plurality:focus { background-color: #9e677d; color: white; }
-
-  a.quantifiers:hover,
-  a.quantifiers:focus { background-color: #88c7d6; color: white; }
-
-  a.anaphors:hover,
-  a.anaphors:focus { background-color: #d6c329; color: white; }
-
-  a.either:hover,
-  a.either:focus { background-color: #d3ccaf; color: #333; }
-
-  a.honorificity:hover,
-  a.honorificity:focus { background-color: #679e8a; color: white; }
-
-  a.verbs:hover,
-  a.verbs:focus { background-color: #67919e; color: white; }
-
-  a.korean:hover,
-  a.korean:focus { background-color: #6ee5d1; color: #003333; }
-
-  /* Optional: subtle lift */
-  a.definiteness:hover,
-  a.demonstrative:hover,
-  a.loci:hover,
-  a.plurality:hover,
-  a.quantifiers:hover,
-  a.anaphors:hover,
-  a.either:hover,
-  a.honorificity:hover,
-  a.verbs:hover,
-  a.korean:hover {
-    transform: translateY(-1px);
+  a.definiteness:hover, a.demonstrative:hover, a.loci:hover,
+  a.plurality:hover, a.quantifiers:hover, a.anaphors:hover,
+  a.either:hover, a.honorificity:hover, a.verbs:hover, a.korean:hover {
+    background-color: currentColor;
+    color: white;
   }
 
+  .definiteness { color: #679e90; }   /* soft green-blue */
+  .demonstrative { color: #8f9e67; }  /* soft olive green */
+  .loci { color: #b1a2c7; }           /* purple */
+  .plurality { color: #9e677d; }      /* muted rose */
+  .quantifiers { color: #88c7d6; }    /* muted blue */
+  .anaphors { color: #d6c329; }       /* yellow */
+  .either { color: #d3ccaf; }         /* tan */
+  .honorificity { color: #679e8a; }   /* jade */
+  .verbs { color: #67919e; }          /* sky blue */
+  .korean { color: #6ee5d1; }         /* mint */
+
+  /* Bib box styling */
   .bib-entry {
-    display: none;
+    opacity: 0;
+    max-height: 0;
+    overflow: hidden;
+    white-space: pre;
     font-family: monospace;
     background-color: #f6f6f6;
     border: 1px solid #ddd;
-    padding: 8px;
     margin-top: 6px;
-    white-space: pre;
     border-radius: 4px;
+    transition: all 0.25s ease;
   }
 
   .bib-entry.visible {
-    display: block;
+    opacity: 1;
+    max-height: 500px;
+    padding: 8px;
   }
 </style>
 
@@ -124,11 +83,11 @@ It is generally assumed that pronouns, definites, and demonstratives are separat
 - Ahn, Dorothy & Ziling Zhu. 2025. <em class="definiteness">A bridge to definiteness: Identifying unique and relational definites through bridging</em>. Natural Language Semantics. <a href="https://link.springer.com/article/10.1007/s11050-025-09237-8" class="definiteness">pdf</a>
 - Ahn, Dorothy. 2024. <em class="definiteness">A four-way distinction in English definite descriptions</em>. Proceedings of SuB28, University of Bochum, Germany 2023. <a href="https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/1104" class="definiteness">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&cstart=20&pagesize=80&citation_for_view=caKoCk4AAAAJ:qjMakFHDy7sC" class="definiteness">🎓google scholar</a>
 - Ahn, Dorothy. 2019. <em class="definiteness">THAT thesis: A competition-based mechanism for anaphoric expressions</em>. PhD thesis, Harvard University. <a href="https://ling.auf.net/lingbuzz/004742" class="definiteness">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:UebtZRa9Y70C" class="definiteness">🎓google scholar</a>
-- Ahn, Dorothy. 2017. <em class="definiteness">Semantics of definite descriptions: A micro-typology</em>. GLOW in Asia 2017, Singapore. February 20-22. <a href="https://glowlinguistics.org/asia11/wp-content/uploads/sites/3/2017/11/v1-ahn.pdf" class="definiteness">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:_FxGoFyzp5QC" class="definiteness">🎓google scholar</a> <div>
+- Ahn, Dorothy. 2017. <em class="definiteness">Semantics of definite descriptions: A micro-typology</em>. GLOW in Asia 2017, Singapore. February 20-22. <a href="https://glowlinguistics.org/asia11/wp-content/uploads/sites/3/2017/11/v1-ahn.pdf" class="definiteness">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:_FxGoFyzp5QC" class="definiteness">🎓google scholar</a> 
   <a href="javascript:void(0);" class="definiteness" onclick="toggleBib(this)">
     bib
   </a>
-  <div class="bib-entry">
+  <pre div class="bib-entry"><code>
 @inproceedings{ahn2017typology,
   title={Definite and demonstrative descriptions: a micro-typology},
   author={Ahn, Dorothy},
@@ -139,8 +98,8 @@ It is generally assumed that pronouns, definites, and demonstratives are separat
   year = {2017},
   pages={33--48}
 }
+</code></pre>
   </div>
-</div>
 
 **<span class="demonstrative">Demonstratives and pointing</span>**
 
