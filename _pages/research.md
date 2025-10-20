@@ -22,29 +22,30 @@ redirect_from:
   a.verbs,
   a.korean {
     display: inline-block;
-    padding: 0.25em 0.6em;
+    padding: 0.15em 0.4em;         /* smaller padding = tighter box */
     margin: 0.1em;
-    border: 1px solid currentColor;   /* border matches text color */
-    border-radius: 6px;
+    border: 1px solid currentColor;
+    border-radius: 2px;            /* almost square corners */
     text-decoration: none;
     font-size: 0.9rem;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+    line-height: 1.2;
     transition: all 0.15s ease;
   }
 
   /* ---- Individual colors ---- */
-  .definiteness { color: #679e90; }    /* soft green-blue */
-  .demonstrative { color: #8f9e67; }   /* soft olive green */
-  .loci { color: #b1a2c7; }            /* purple */
-  .plurality { color: #9e677d; }       /* muted rose */
-  .quantifiers { color: #88c7d6; }     /* muted blue */
-  .anaphors { color: #d6c329; }        /* yellow */
-  .either { color: #d3ccaf; }          /* warm tan / ochre */
-  .honorificity { color: #679e8a; }    /* dusty jade */
-  .verbs { color: #67919e; }           /* muted sky blue */
-  .korean { color: #6ee5d1; }          /* muted mint */
+  .definiteness { color: #679e90; }
+  .demonstrative { color: #8f9e67; }
+  .loci { color: #b1a2c7; }
+  .plurality { color: #9e677d; }
+  .quantifiers { color: #88c7d6; }
+  .anaphors { color: #d6c329; }
+  .either { color: #d3ccaf; }
+  .honorificity { color: #679e8a; }
+  .verbs { color: #67919e; }
+  .korean { color: #6ee5d1; }
 
-  /* ---- Hover/focus effect: filled background ---- */
+  /* ---- Hover/focus effect ---- */
   a.definiteness:hover,
   a.definiteness:focus { background-color: #679e90; color: white; }
 
@@ -75,7 +76,7 @@ redirect_from:
   a.korean:hover,
   a.korean:focus { background-color: #6ee5d1; color: #003333; }
 
-  /* Optional: slight lift on hover */
+  /* Optional: subtle lift */
   a.definiteness:hover,
   a.demonstrative:hover,
   a.loci:hover,
@@ -87,9 +88,9 @@ redirect_from:
   a.verbs:hover,
   a.korean:hover {
     transform: translateY(-1px);
-    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
   }
 </style>
+
 
 
 
