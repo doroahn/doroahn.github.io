@@ -30,7 +30,7 @@ redirect_from:
     font-size: 0.85em;
     padding: 2px 6px;
     margin: 2px;
-    border-radius: 2px;
+    border-radius: 2px; /* square corners */
     transition: all 0.2s ease;
   }
 
@@ -41,16 +41,26 @@ redirect_from:
     color: white;
   }
 
+  /* individual color themes */
   .definiteness { color: #679e90; }   /* soft green-blue */
   .demonstrative { color: #8f9e67; }  /* soft olive green */
   .loci { color: #b1a2c7; }           /* purple */
   .plurality { color: #9e677d; }      /* muted rose */
   .quantifiers { color: #88c7d6; }    /* muted blue */
   .anaphors { color: #d6c329; }       /* yellow */
-  .either { color: #d3ccaf; }         /* tan */
-  .honorificity { color: #679e8a; }   /* jade */
-  .verbs { color: #67919e; }          /* sky blue */
-  .korean { color: #6ee5d1; }         /* mint */
+  .either { color: #d3ccaf; }         /* warm tan */
+  .honorificity { color: #679e8a; }   /* dusty jade */
+  .verbs { color: #67919e; }          /* muted sky blue */
+  .korean { color: #6ee5d1; }         /* muted mint */
+
+  /* icon alignment */
+  .icon {
+    width: 13px;
+    height: 13px;
+    fill: currentColor;
+    vertical-align: -2px;
+  }
+
 
   /* Bib box styling */
   .bib-entry {
