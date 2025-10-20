@@ -10,24 +10,94 @@ redirect_from:
 {% include base_path %}
 
 <style>
-  .definiteness { color: #679e90; }   /* soft green-blue */
-  .demonstrative { color: #8f9e67; }  /* soft olive green */
-  .loci { color: #b1a2c7; }          /*purple */
-  .plurality { color: #9e677d; }      /* muted rose */
-  .quantifiers { color: #88c7d6; }    /* muted blue */
-  .anaphors { color: #d6c329; }       /*yellow */
-  .either { color: #d3ccaf; }         /* warm tan / ochre */
-  .honorificity { color: #679e8a; }   /* dusty jade */
-  .verbs { color: #67919e; }          /* muted sky blue */
-  .korean { color: #6ee5d1; }         /* muted mint */
+  /* ---- Base button style ---- */
+  a.definiteness,
+  a.demonstrative,
+  a.loci,
+  a.plurality,
+  a.quantifiers,
+  a.anaphors,
+  a.either,
+  a.honorificity,
+  a.verbs,
+  a.korean {
+    display: inline-block;
+    padding: 0.25em 0.6em;
+    margin: 0.1em;
+    border: 1px solid currentColor;   /* border matches text color */
+    border-radius: 6px;
+    text-decoration: none;
+    font-size: 0.9rem;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+    transition: all 0.15s ease;
+  }
+
+  /* ---- Individual colors ---- */
+  .definiteness { color: #679e90; }    /* soft green-blue */
+  .demonstrative { color: #8f9e67; }   /* soft olive green */
+  .loci { color: #b1a2c7; }            /* purple */
+  .plurality { color: #9e677d; }       /* muted rose */
+  .quantifiers { color: #88c7d6; }     /* muted blue */
+  .anaphors { color: #d6c329; }        /* yellow */
+  .either { color: #d3ccaf; }          /* warm tan / ochre */
+  .honorificity { color: #679e8a; }    /* dusty jade */
+  .verbs { color: #67919e; }           /* muted sky blue */
+  .korean { color: #6ee5d1; }          /* muted mint */
+
+  /* ---- Hover/focus effect: filled background ---- */
+  a.definiteness:hover,
+  a.definiteness:focus { background-color: #679e90; color: white; }
+
+  a.demonstrative:hover,
+  a.demonstrative:focus { background-color: #8f9e67; color: white; }
+
+  a.loci:hover,
+  a.loci:focus { background-color: #b1a2c7; color: white; }
+
+  a.plurality:hover,
+  a.plurality:focus { background-color: #9e677d; color: white; }
+
+  a.quantifiers:hover,
+  a.quantifiers:focus { background-color: #88c7d6; color: white; }
+
+  a.anaphors:hover,
+  a.anaphors:focus { background-color: #d6c329; color: white; }
+
+  a.either:hover,
+  a.either:focus { background-color: #d3ccaf; color: #333; }
+
+  a.honorificity:hover,
+  a.honorificity:focus { background-color: #679e8a; color: white; }
+
+  a.verbs:hover,
+  a.verbs:focus { background-color: #67919e; color: white; }
+
+  a.korean:hover,
+  a.korean:focus { background-color: #6ee5d1; color: #003333; }
+
+  /* Optional: slight lift on hover */
+  a.definiteness:hover,
+  a.demonstrative:hover,
+  a.loci:hover,
+  a.plurality:hover,
+  a.quantifiers:hover,
+  a.anaphors:hover,
+  a.either:hover,
+  a.honorificity:hover,
+  a.verbs:hover,
+  a.korean:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  }
 </style>
+
 
 
 **<span class="definiteness">Definiteness and anaphoric expressions</span>**
 
 It is generally assumed that pronouns, definites, and demonstratives are separate semantic elements. However, cross-linguistic studies suggest that the morphosyntactically based distinction between these expressions do not always align with underlying meaning. In this line of work, I argue that the underlying semantics of these expressions are identical except for the restrictions that they carry, proposing a unified analysis that extends the general schema of a definite.
 
-- Ahn, Dorothy & Ziling Zhu. 2025. <em class="definiteness">A bridge to definiteness: Identifying unique and relational definites through bridging</em>. Natural Language Semantics. <a href="[https://ling.auf.net/lingbuzz/009162](https://link.springer.com/article/10.1007/s11050-025-09237-8)" class="definiteness">[pdf]</a>
+- Ahn, Dorothy & Ziling Zhu. 2025. <em class="definiteness">A bridge to definiteness: Identifying unique and relational definites through bridging</em>. Natural Language Semantics. <a href="https://link.springer.com/article/10.1007/s11050-025-09237-8" class="definiteness">[pdf]</a>
 - Ahn, Dorothy. 2024. <em class="definiteness">A four-way distinction in English definite descriptions</em>. Proceedings of SuB28, University of Bochum, Germany 2023. <a href="https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/1104" class="definiteness">[pdf]</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&cstart=20&pagesize=80&citation_for_view=caKoCk4AAAAJ:qjMakFHDy7sC" class="definiteness">[🎓google scholar]</a>
 - Ahn, Dorothy. 2019. <em class="definiteness">THAT thesis: A competition-based mechanism for anaphoric expressions</em>. PhD thesis, Harvard University. <a href="https://ling.auf.net/lingbuzz/004742" class="definiteness">[pdf]</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:UebtZRa9Y70C" class="definiteness">[🎓google scholar]</a>
 - Ahn, Dorothy. 2017. <em class="definiteness">Semantics of definite descriptions: A micro-typology</em>. GLOW in Asia 2017, Singapore. February 20-22. <a href="https://glowlinguistics.org/asia11/wp-content/uploads/sites/3/2017/11/v1-ahn.pdf" class="definiteness">[pdf]</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:_FxGoFyzp5QC" class="definiteness">[🎓google scholar]</a>
