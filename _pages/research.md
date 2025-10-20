@@ -85,5 +85,5 @@ I propose that additive either in sentences such as Jin did not dance either is 
 
 **<span class="korean">Constructions in Korean</span>**
 
-- Ye, Ariela & Dorothy Ahn. 2025. <em class="korean">Rethinking embeddability and context sensitivity in Honorification: Evidence from Korean _si_</em>. SALT 35. <a href="https://doroahn.github.io/files/ye-ahn-2025-salt-si.pdf" class="korean">[draft]</a>
+- Ye, Ariela & Dorothy Ahn. 2025. <em class="korean">Rethinking embeddability and context sensitivity in Honorification: Evidence from Korean _si_</em>. SALT 35. <a href="https://doroahn.github.io/files/ye_ahn_2025_salt35-korean-si.pdf" class="korean">[draft]</a>
 - Ahn, Dorothy. 2018. <em class="korean">Korean classifier-less constructions</em>. Proceedings of Sinn und Bedeutung 22. <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:_kc_bZDykSQC" class="korean">[🎓google scholar]</a>
