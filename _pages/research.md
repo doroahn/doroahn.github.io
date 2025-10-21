@@ -200,7 +200,19 @@ volume={45},
 pages={1345--1393}
 }
 </code></pre>
-- Ahn, Dorothy & Sudha Arunachalam. 2020. <em class="demonstrative">Anaphoric that: Difference between adults and children</em>. Proceedings of BUCLD 44. October 25-27. <a href="https://www.lingref.com/bucld/44/BUCLD44-03.pdf" class="demonstrative">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:Y0pCki6q_DkC" class="demonstrative">🎓google scholar</a> 
+- Ahn, Dorothy & Sudha Arunachalam. 2020. <em class="demonstrative">Anaphoric that: Difference between adults and children</em>. Proceedings of BUCLD 44. October 25-27. <a href="https://www.lingref.com/bucld/44/BUCLD44-03.pdf" class="demonstrative">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:Y0pCki6q_DkC" class="demonstrative">🎓google scholar</a> <a href="javascript:void(0);" class="demonstrative" onclick="toggleBib(this)">
+    bib
+  </a>
+  <pre div class="bib-entry"><code>@inproceedings{ahnarunachalam2019bucld, 
+    title={Anaphoric that: difference between adults and children},
+    year={2019},
+    booktitle={Proceedings of the 44th Annual Boston University Conference on Language Development (BUCLD)},
+    author={Ahn, Dorothy and Arunachalam, Sudha},
+    editor={Brown, Megan M. and Kohut, Alexandra},
+    pages={28-39},
+    volume={1}
+}
+</code></pre>
 - Ahn, Dorothy & Jenneke van der Wal. 2019. <em class="demonstrative">What does that Lugwere demonstratives refer to? A semantic analysis of proximity and exteriority.</em> Studies in African Linguistics. 48(1):1-24. University of Florida: LibraryPress. <a href="https://journals.flvc.org/sal/article/view/114927" class="demonstrative">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:kNdYIx-mwKoC" class="demonstrative">🎓google scholar</a> 
 - Ahn, Dorothy & Kathryn Davidson. 2017. <em class="demonstrative">Where pointing matters: English and Korean demonstratives</em>. NELS 2017, Iceland. October 27-20. <a href="/files/ahndavidson20217.pdf" class="demonstrative">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:u-x6o8ySG0sC" class="demonstrative">🎓google scholar</a>
 
