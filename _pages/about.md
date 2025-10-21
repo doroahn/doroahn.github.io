@@ -94,6 +94,28 @@ redirect_from:
   a.korean:hover {
     transform: translateY(-1px);
   }
+
+  
+
+  /* Bib box styling */
+  .bib-entry {
+    opacity: 0;
+    max-height: 0;
+    overflow: hidden;
+    white-space: pre;
+    font-family: monospace;
+    background-color: #f6f6f6;
+    border: 1px solid #ddd;
+    margin-top: 6px;
+    border-radius: 4px;
+    transition: all 0.25s ease;
+  }
+
+  .bib-entry.visible {
+    opacity: 1;
+    max-height: 500px;
+    padding: 8px;
+  }
 </style>
 
 
