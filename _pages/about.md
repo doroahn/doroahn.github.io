@@ -133,8 +133,34 @@ Publications
 
 ​
 **peer-reviewed proceedings**
-- Ahn, Dorothy. 2025. A four-way distinction in definite expressions. _SuB 28_, Bochum, Germany. 
-- Ahn, Dorothy. 2024. Definite expressions with and without deixis. _WCCFL 41_, UC Santa Cruz.
+- Ahn, Dorothy. 2024. <em class="definiteness">A four-way distinction in English definite descriptions</em>. Proceedings of SuB28, University of Bochum, Germany 2023. <a href="https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/1104" class="definiteness">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&cstart=20&pagesize=80&citation_for_view=caKoCk4AAAAJ:qjMakFHDy7sC" class="definiteness">🎓google scholar</a> <a href="javascript:void(0);" class="definiteness" onclick="toggleBib(this)">
+    bib
+  </a>
+  <pre div class="bib-entry"><code>@incollection{ahn2024definite,
+    author={Ahn, Dorothy},
+title={A four-way distinction in {E}nglish definite expressions},
+year={2024},
+    booktitle = {Proceedings of Sinn und Bedeutung 28},
+publisher={Bochum: Ruhr-University Bochum},
+volume={28},
+editor={Baumann, Geraldine and Gutzmann, Daniel  and Koopman, Jonas  and Liefke, Kristina  and Renans, Agata  and Scheffler, Tatjana },
+pages={1--17}
+} 
+</code></pre> 
+- Ahn, Dorothy. 2025. <em class="demonstrative">Definite expressions with and without deixis</em>. Proceedings of WCCFL41, UC Santa Cruz. <a href="https://www.lingref.com/cpp/wccfl/41/paper3727.pdf" class="demonstrative">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&cstart=20&pagesize=80&citation_for_view=caKoCk4AAAAJ:zYLM7Y9cAGgC" class="demonstrative">🎓google scholar</a> <a href="javascript:void(0);" class="demonstrative" onclick="toggleBib(this)">
+    bib
+  </a>
+  <pre div class="bib-entry"><code>@incollection{ahn2023deixis,
+author={Ahn, Dorothy},
+title={Definite expressions with and without deixis},
+year={2025},
+booktitle={Proceedings of the 41st West Coast Conference on Formal Linguistics},
+editor={Webster, Nikolas  and Kiper, Yağmur  and Wang, Richard and Lyu, Sichen Larry},
+publisher={Cascadilla Proceedings Project},
+city={Somerville, MA, USA},
+pages={1--17}
+}
+</code></pre>
 - Zhu, Ziling & Dorothy Ahn. 2022. Mandarin bridging: Experimental data and theoretical implications. _GLOW in Asia XIII_.
 - Zhu, Ziling & Dorothy Ahn. 2022. Effects of instruction on semantic and pragmatic judgment tasks. _Experiments in Linguistic Meaning 2 (ELM2)_.
 - Ahn, Dorothy, Ankana Saha & Uli Sauerland. 2020. Positively Polar Plurals. _SALT 30_.
@@ -143,7 +169,21 @@ Publications
 - Ahn, Dorothy, Annemarie Kocab & Kathryn Davidson. 2019. Closer look at ASL IX: Locus ascontrasttriggering modifier. _GLOW in Asia_. Dongguk University, Korea.
 - Ahn, Dorothy & Kathryn Davidson. 2018. Where pointing matters: English and Korean demonstratives. _NELS 48_, University of Massachusetts.
 - Ahn, Dorothy. 2018. Korean classifier-less number constructions. _SuB 25_, Berlin: Leibniz-Centre GeneralLinguistics.
-- Ahn, Dorothy. 2017. Definite and demonstrative descriptions: A mirco-typology. _GLOW in Asia 11_, University of Singapore.
+- Ahn, Dorothy. 2017. <em class="definiteness">Semantics of definite descriptions: A micro-typology</em>. GLOW in Asia 2017, Singapore. February 20-22. <a href="https://glowlinguistics.org/asia11/wp-content/uploads/sites/3/2017/11/v1-ahn.pdf" class="definiteness">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:_FxGoFyzp5QC" class="definiteness">🎓google scholar</a> 
+  <a href="javascript:void(0);" class="definiteness" onclick="toggleBib(this)">
+    bib
+  </a>
+  <pre div class="bib-entry"><code>@inproceedings{ahn2017typology,
+  title={Definite and demonstrative descriptions: a micro-typology},
+  author={Ahn, Dorothy},
+  booktitle={Proceedings of {Generative Linguistics in the Old World in Asia 11}},
+  volume = 1,
+  publisher = {MIT Working Papers in Linguistics},
+  editor={Erlewine, Michael Yoshitaka},
+  year = {2017},
+  pages={33--48}
+}
+</code></pre>
 - Ahn, Dorothy & Isabelle Charnavel. 2017. Perspective on Korean Anaphors: Comparing Inanimate cachey vs. Animate caki-casin. _WCCFL 34_.
 - Ahn, Dorothy. 2016. NPI intervention of too. _SuB 20_.
 - Ahn, Dorothy & Uli Sauerland. 2015. The grammar of relative measurements. _SALT 25_, Stanford University.
