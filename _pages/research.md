@@ -224,7 +224,20 @@ pages={1345--1393}
     journal={Studies in African Linguistics}
 }
 </code></pre>
-- Ahn, Dorothy & Kathryn Davidson. 2017. <em class="demonstrative">Where pointing matters: English and Korean demonstratives</em>. NELS 2017, Iceland. October 27-20. <a href="/files/ahndavidson20217.pdf" class="demonstrative">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:u-x6o8ySG0sC" class="demonstrative">🎓google scholar</a>
+- Ahn, Dorothy & Kathryn Davidson. 2017. <em class="demonstrative">Where pointing matters: English and Korean demonstratives</em>. NELS 2017, Iceland. October 27-20. <a href="/files/ahndavidson20217.pdf" class="demonstrative">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:u-x6o8ySG0sC" class="demonstrative">🎓google scholar</a> <a href="javascript:void(0);" class="demonstrative" onclick="toggleBib(this)">
+    bib
+  </a>
+  <pre div class="bib-entry"><code>@inproceedings{ahndavidson2018nels,
+	title={{Where pointing matters: {E}nglish and {K}orean demonstratives}},
+    author={Ahn, Dorothy and Davidson, Kathryn},
+    booktitle={Proceedings of the {Forty-Eighth Annual Meeting of the North East Linguistic Society}},
+    year={2018},
+    editor={Hucklebridge, Sherry and Nelson, Max},
+    publisher={GLSA, University of Massachusetts},
+    volume={1},
+    pages={15-24}
+}
+</code></pre>
 
 **<span class="loci">ASL loci use</span>**
 
