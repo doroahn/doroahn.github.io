@@ -15,6 +15,12 @@ redirect_from:
 </script>
 
 <style>
+  a:link {
+  color: #757575;
+  background-color: transparent;
+  text-decoration: none;
+}
+  
   /* ---- Base button style ---- */
   a.definiteness,
   a.demonstrative,
