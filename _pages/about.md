@@ -16,9 +16,9 @@ redirect_from:
 
 <style>
   a:link {
-  color: #757575;
+  color: black;
   background-color: transparent;
-  text-decoration: none;
+  text-decoration: underline;
 }
   
   /* ---- Base button style ---- */
@@ -160,7 +160,18 @@ Publications
 
 **peer-reviewed journals**
 - Ahn, Dorothy & Ziling Zhu. 2025. <em class="definiteness">A bridge to definiteness: Identifying unique and relational definites through bridging</em>. Natural Language Semantics. <a href="https://link.springer.com/article/10.1007/s11050-025-09237-8" class="definiteness">pdf</a>
-- Ahn, Dorothy. 2022. <em class="demonstrative">Indirectly direct: An account of demonstratives and pointing</em>. In Linguistics and Philosophy. 45. 1345–1393. <a href="https://link.springer.com/article/10.1007/s10988-022-09350-5" class="demonstrative">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:Se3iqnhoufwC" class="demonstrative">🎓google scholar</a>
+- Ahn, Dorothy. 2022. <em class="demonstrative">Indirectly direct: An account of demonstratives and pointing</em>. In Linguistics and Philosophy. 45. 1345–1393. <a href="https://link.springer.com/article/10.1007/s10988-022-09350-5" class="demonstrative">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:Se3iqnhoufwC" class="demonstrative">🎓google scholar</a> <a href="javascript:void(0);" class="demonstrative" onclick="toggleBib(this)">
+    bib
+  </a>
+  <pre div class="bib-entry"><code>@article{ahn2022indirect,
+title={Indirectly direct: {A}n account of demonstratives and pronouns},
+author={Ahn, Dorothy},
+journal={Linguistics and Philosophy},
+year={2022},
+volume={45},
+pages={1345--1393}
+}
+</code></pre>
 - Ahn, Dorothy & Heejeong Ko. 2022. <em class="quantifiers">On non-conservativity of Korean floating quantifiers​</em>. In Glossa. <a href="https://www.glossa-journal.org/article/id/5776/" class="quantifiers">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:W7OEmFMy1HYC" class="quantifiers">🎓google scholar</a>
 - Ahn, Dorothy & Jesse Snedeker. 2021. <em class="plurality">Early acquisition of plural morphology in a classifier language: Data from Korean 2-4 year olds</em>. Language Learning and Development. <a href="https://www.tandfonline.com/eprint/JDYWNDGUDDEFT3T82K6V/full?target=10.1080/15475441.2021.1922280" class="plurality">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:WF5omc3nYNoC" class="plurality">🎓google scholar</a>
 - Ahn, Dorothy & Jenneke van der Wal. 2019. <em class="demonstrative">What does that Lugwere demonstratives refer to? A semantic analysis of proximity and exteriority.</em> Studies in African Linguistics. 48(1):1-24. University of Florida: LibraryPress. <a href="https://journals.flvc.org/sal/article/view/114927" class="demonstrative">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:kNdYIx-mwKoC" class="demonstrative">🎓google scholar</a>
