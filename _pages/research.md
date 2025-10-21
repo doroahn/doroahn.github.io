@@ -247,7 +247,7 @@ Sign languages such as American Sign Language (ASL) can use the indexical pointi
     bib
   </a>
   <pre div class="bib-entry"><code>@incollection{ahn2020nels,
-    title={{ASL} {IX} to locus as a modifier},
+    title={ASL {IX} to locus as a modifier},
     author={Ahn, Dorothy},
     year={2020},
     booktitle={Proceedings of North East Linguistic Society 50},
