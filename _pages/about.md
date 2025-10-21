@@ -15,10 +15,7 @@ redirect_from:
 </script>
 
 <style>
-  a:link {
-  text-decoration: underline;
-}
-  
+
   /* ---- Base button style ---- */
   a.definiteness,
   a.demonstrative,
