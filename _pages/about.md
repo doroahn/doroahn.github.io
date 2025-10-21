@@ -16,8 +16,6 @@ redirect_from:
 
 <style>
   a:link {
-  color: black;
-  background-color: transparent;
   text-decoration: underline;
 }
   
@@ -172,10 +170,59 @@ volume={45},
 pages={1345--1393}
 }
 </code></pre>
-- Ahn, Dorothy & Heejeong Ko. 2022. <em class="quantifiers">On non-conservativity of Korean floating quantifiers​</em>. In Glossa. <a href="https://www.glossa-journal.org/article/id/5776/" class="quantifiers">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:W7OEmFMy1HYC" class="quantifiers">🎓google scholar</a>
-- Ahn, Dorothy & Jesse Snedeker. 2021. <em class="plurality">Early acquisition of plural morphology in a classifier language: Data from Korean 2-4 year olds</em>. Language Learning and Development. <a href="https://www.tandfonline.com/eprint/JDYWNDGUDDEFT3T82K6V/full?target=10.1080/15475441.2021.1922280" class="plurality">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:WF5omc3nYNoC" class="plurality">🎓google scholar</a>
-- Ahn, Dorothy & Jenneke van der Wal. 2019. <em class="demonstrative">What does that Lugwere demonstratives refer to? A semantic analysis of proximity and exteriority.</em> Studies in African Linguistics. 48(1):1-24. University of Florida: LibraryPress. <a href="https://journals.flvc.org/sal/article/view/114927" class="demonstrative">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:kNdYIx-mwKoC" class="demonstrative">🎓google scholar</a>
-- Ahn, Dorothy & Uli Sauerland. 2017. <em class="quantifiers">Measure constructions with relative measures: Towards a syntax of non-conservative construals</em>. The Linguistic Review. doi:10.1515/tlr-2017-0001 <a href="https://www.degruyterbrill.com/document/doi/10.1515/tlr-2017-0001/html" class="quantifiers">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:3fE2CSJIrl8C" class="quantifiers">🎓google scholar</a>
+- Ahn, Dorothy & Heejeong Ko. 2022. <em class="quantifiers">On non-conservativity of Korean floating quantifiers​</em>. In Glossa. <a href="https://www.glossa-journal.org/article/id/5776/" class="quantifiers">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:W7OEmFMy1HYC" class="quantifiers">🎓google scholar</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:WF5omc3nYNoC" class="plurality">🎓google scholar</a> <a href="javascript:void(0);" class="quantifiers" onclick="toggleBib(this)">
+    bib
+  </a>
+  <pre div class="bib-entry"><code>@article{ahnko2022korean,
+  title={On non-conservativity of {K}orean floating quantifiers},
+  author={Ahn, Dorothy and Ko, Heejeong},
+  journal={Glossa: {A Journal of General Linguistics}},
+  volume={7},
+  number={1},
+    pages={1-34},
+  year={2022},
+  publisher={Open Library of Humanities}
+}
+</code></pre>
+- Ahn, Dorothy & Jesse Snedeker. 2021. <em class="plurality">Early acquisition of plural morphology in a classifier language: Data from Korean 2-4 year olds</em>. Language Learning and Development. <a href="https://www.tandfonline.com/eprint/JDYWNDGUDDEFT3T82K6V/full?target=10.1080/15475441.2021.1922280" class="plurality">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:WF5omc3nYNoC" class="plurality">🎓google scholar</a> <a href="javascript:void(0);" class="plurality" onclick="toggleBib(this)">
+    bib
+  </a>
+  <pre div class="bib-entry"><code>@article{ahnsnedeker2017,
+   title={Early Acquisition of Plural Morphology in a Classifier Language: Data from {K}orean 2-4 year olds},
+   author={Ahn, Dorothy and Snedeker, Jesse},
+   year={2021},
+    volume={18},
+    pages={1-15},
+   journal={Language Learning and Development},
+   DOI={10.1080/15475441.2021.1922280}
+}
+</code></pre>
+- Ahn, Dorothy & Jenneke van der Wal. 2019. <em class="demonstrative">What does that Lugwere demonstratives refer to? A semantic analysis of proximity and exteriority.</em> Studies in African Linguistics. 48(1):1-24. University of Florida: LibraryPress. <a href="https://journals.flvc.org/sal/article/view/114927" class="demonstrative">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:kNdYIx-mwKoC" class="demonstrative">🎓google scholar</a> <a href="javascript:void(0);" class="demonstrative" onclick="toggleBib(this)">
+    bib
+  </a>
+  <pre div class="bib-entry"><code>@article{ahnvanderwal2019,
+	title={What does `that' {L}ugwere demonstrative refer to? {A} semantic analysis of proximity and exteriority},
+    author={Ahn, Dorothy and van der Wal, Jenneke},
+    year={2019},
+    volume={1},
+    journal={Studies in African Linguistics}
+}
+</code></pre>
+- Ahn, Dorothy. & Uli Sauerland. 2017. <em class="quantifiers">Measure constructions with relative measures: Towards a syntax of non-conservative construals</em>. The Linguistic Review. doi:10.1515/tlr-2017-0001 <a href="https://www.degruyterbrill.com/document/doi/10.1515/tlr-2017-0001/html" class="quantifiers">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:3fE2CSJIrl8C" class="quantifiers">🎓google scholar</a> <a href="javascript:void(0);" class="quantifiers" onclick="toggleBib(this)">
+    bib
+  </a>
+  <pre div class="bib-entry"><code>@article{ahnsauerland2017measure,
+  title={Measure constructions with relative measures: {T}owards a syntax of non-conservative construals},
+  author={Ahn, Dorothy and Sauerland, Uli},
+  journal={The Linguistic Review},
+  volume={34},
+  number={2},
+  pages={215--248},
+  year={2017},
+  publisher={De Gruyter Mouton},
+  doi={10.1515/tlr-2017-0001}
+}
+</code></pre>
 
 ​
 **peer-reviewed proceedings**
