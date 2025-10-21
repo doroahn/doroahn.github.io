@@ -7,6 +7,13 @@ redirect_from:
   - /about.html
 ---
 
+<script>
+  function toggleBib(button) {
+    const bib = button.nextElementSibling;
+    bib.classList.toggle('visible');
+  }
+</script>
+
 <style>
   /* ---- Base button style ---- */
   a.definiteness,
