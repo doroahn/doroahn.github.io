@@ -129,8 +129,30 @@ redirect_from:
 It is generally assumed that pronouns, definites, and demonstratives are separate semantic elements. However, cross-linguistic studies suggest that the morphosyntactically based distinction between these expressions do not always align with underlying meaning. In this line of work, I argue that the underlying semantics of these expressions are identical except for the restrictions that they carry, proposing a unified analysis that extends the general schema of a definite.
 
 - Ahn, Dorothy & Ziling Zhu. 2025. <em class="definiteness">A bridge to definiteness: Identifying unique and relational definites through bridging</em>. Natural Language Semantics. <a href="https://link.springer.com/article/10.1007/s11050-025-09237-8" class="definiteness">pdf</a>
-- Ahn, Dorothy. 2024. <em class="definiteness">A four-way distinction in English definite descriptions</em>. Proceedings of SuB28, University of Bochum, Germany 2023. <a href="https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/1104" class="definiteness">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&cstart=20&pagesize=80&citation_for_view=caKoCk4AAAAJ:qjMakFHDy7sC" class="definiteness">🎓google scholar</a>
-- Ahn, Dorothy. 2019. <em class="definiteness">THAT thesis: A competition-based mechanism for anaphoric expressions</em>. PhD thesis, Harvard University. <a href="https://ling.auf.net/lingbuzz/004742" class="definiteness">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:UebtZRa9Y70C" class="definiteness">🎓google scholar</a>
+- Ahn, Dorothy. 2024. <em class="definiteness">A four-way distinction in English definite descriptions</em>. Proceedings of SuB28, University of Bochum, Germany 2023. <a href="https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/1104" class="definiteness">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&cstart=20&pagesize=80&citation_for_view=caKoCk4AAAAJ:qjMakFHDy7sC" class="definiteness">🎓google scholar</a> <a href="javascript:void(0);" class="definiteness" onclick="toggleBib(this)">
+    bib
+  </a>
+  <pre div class="bib-entry"><code>@incollection{ahn2024definite,
+    author={Ahn, Dorothy},
+title={A four-way distinction in {E}nglish definite expressions},
+year={2024},
+    booktitle = {Proceedings of Sinn und Bedeutung 28},
+publisher={Bochum: Ruhr-University Bochum},
+volume={28},
+editor={Baumann, Geraldine and Gutzmann, Daniel  and Koopman, Jonas  and Liefke, Kristina  and Renans, Agata  and Scheffler, Tatjana },
+pages={1--17}
+} 
+</code></pre>
+- Ahn, Dorothy. 2019. <em class="definiteness">THAT thesis: A competition-based mechanism for anaphoric expressions</em>. PhD thesis, Harvard University. <a href="https://ling.auf.net/lingbuzz/004742" class="definiteness">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:UebtZRa9Y70C" class="definiteness">🎓google scholar</a> <a href="javascript:void(0);" class="definiteness" onclick="toggleBib(this)">
+    bib
+  </a>
+  <pre div class="bib-entry"><code>@phdthesis{ahn2019thatthesis,
+    title={{\textit{THAT}} thesis: {A} competition mechanism for anaphoric expressions},
+    author={Ahn, Dorothy},
+    year={2019},
+    school={Harvard University}
+}
+</code></pre>
 - Ahn, Dorothy. 2017. <em class="definiteness">Semantics of definite descriptions: A micro-typology</em>. GLOW in Asia 2017, Singapore. February 20-22. <a href="https://glowlinguistics.org/asia11/wp-content/uploads/sites/3/2017/11/v1-ahn.pdf" class="definiteness">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:_FxGoFyzp5QC" class="definiteness">🎓google scholar</a> 
   <a href="javascript:void(0);" class="definiteness" onclick="toggleBib(this)">
     bib
@@ -152,8 +174,32 @@ It is generally assumed that pronouns, definites, and demonstratives are separat
 Demonstratives received much attention in semantics and philosophy for their deictic and non-deictic uses. In gesture linguistics, demonstratives also show a unique behavior of bringing meaning of gesture to at-issue. I propose a new analysis of demonstratives based their ability to refer to non-familiar entities.
 
 - Zhang, Ying & Dorothy Ahn. 2025. <em class="demonstrative">The most descriptive depiction</em>. Sinn und Bedeutung 30, Goethe University Frankfurt. <a href="https://doroahn.github.io/files/zhang-ahn-most-descriptive-depiction.pdf" class="demonstrative">[slides]</a>
-- Ahn, Dorothy. 2025. <em class="demonstrative">Definite expressions with and without deixis</em>. Proceedings of WCCFL41, UC Santa Cruz. <a href="https://www.lingref.com/cpp/wccfl/41/paper3727.pdf" class="demonstrative">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&cstart=20&pagesize=80&citation_for_view=caKoCk4AAAAJ:zYLM7Y9cAGgC" class="demonstrative">🎓google scholar</a>
-- Ahn, Dorothy. 2022. <em class="demonstrative">Indirectly direct: An account of demonstratives and pointing</em>. In Linguistics and Philosophy. 45. 1345–1393. <a href="https://link.springer.com/article/10.1007/s10988-022-09350-5" class="demonstrative">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:Se3iqnhoufwC" class="demonstrative">🎓google scholar</a>
+- Ahn, Dorothy. 2025. <em class="demonstrative">Definite expressions with and without deixis</em>. Proceedings of WCCFL41, UC Santa Cruz. <a href="https://www.lingref.com/cpp/wccfl/41/paper3727.pdf" class="demonstrative">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&cstart=20&pagesize=80&citation_for_view=caKoCk4AAAAJ:zYLM7Y9cAGgC" class="demonstrative">🎓google scholar</a> <a href="javascript:void(0);" class="demonstrative" onclick="toggleBib(this)">
+    bib
+  </a>
+  <pre div class="bib-entry"><code>@incollection{ahn2023deixis,
+author={Ahn, Dorothy},
+title={Definite expressions with and without deixis},
+year={2025},
+booktitle={Proceedings of the 41st West Coast Conference on Formal Linguistics},
+editor={Webster, Nikolas  and Kiper, Yağmur  and Wang, Richard and Lyu, Sichen Larry},
+publisher={Cascadilla Proceedings Project},
+city={Somerville, MA, USA},
+pages={1--17}
+}
+</code></pre>
+- Ahn, Dorothy. 2022. <em class="demonstrative">Indirectly direct: An account of demonstratives and pointing</em>. In Linguistics and Philosophy. 45. 1345–1393. <a href="https://link.springer.com/article/10.1007/s10988-022-09350-5" class="demonstrative">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:Se3iqnhoufwC" class="demonstrative">🎓google scholar</a> <a href="javascript:void(0);" class="demonstrative" onclick="toggleBib(this)">
+    bib
+  </a>
+  <pre div class="bib-entry"><code>@article{ahn2022indirect,
+title={Indirectly direct: {A}n account of demonstratives and pronouns},
+author={Ahn, Dorothy},
+journal={Linguistics and Philosophy},
+year={2022},
+volume={45},
+pages={1345--1393}
+}
+</code></pre>
 - Ahn, Dorothy & Sudha Arunachalam. 2020. <em class="demonstrative">Anaphoric that: Difference between adults and children</em>. Proceedings of BUCLD 44. October 25-27. <a href="https://www.lingref.com/bucld/44/BUCLD44-03.pdf" class="demonstrative">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:Y0pCki6q_DkC" class="demonstrative">🎓google scholar</a>
 - Ahn, Dorothy & Jenneke van der Wal. 2019. <em class="demonstrative">What does that Lugwere demonstratives refer to? A semantic analysis of proximity and exteriority.</em> Studies in African Linguistics. 48(1):1-24. University of Florida: LibraryPress. <a href="https://journals.flvc.org/sal/article/view/114927" class="demonstrative">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:kNdYIx-mwKoC" class="demonstrative">🎓google scholar</a>
 - Ahn, Dorothy & Kathryn Davidson. 2017. <em class="demonstrative">Where pointing matters: English and Korean demonstratives</em>. NELS 2017, Iceland. October 27-20. <a href="/files/ahndavidson20217.pdf" class="demonstrative">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:u-x6o8ySG0sC" class="demonstrative">🎓google scholar</a>
