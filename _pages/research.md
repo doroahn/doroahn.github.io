@@ -228,7 +228,7 @@ pages={1345--1393}
     bib
   </a>
   <pre div class="bib-entry"><code>@inproceedings{ahndavidson2018nels,
-	title={{Where pointing matters: {E}nglish and {K}orean demonstratives}},
+	title={Where pointing matters: {E}nglish and {K}orean demonstratives},
     author={Ahn, Dorothy and Davidson, Kathryn},
     booktitle={Proceedings of the {Forty-Eighth Annual Meeting of the North East Linguistic Society}},
     year={2018},
@@ -243,7 +243,7 @@ pages={1345--1393}
 
 Sign languages such as American Sign Language (ASL) can use the indexical pointing handshape (IX; indexical) to refer to entities present in the context by pointing directly at them. Signers can also point to abstract locations in the signing space (locus, loci) to refer to entities who are not present in the content but familiar in the discourse. This use of loci in sign languages has been analyzed as overt instantiations of a referent tracking mechanism that is covert in spoken languages (see Lillo-Martin & Klima 1990). I propose an alternative account of loci as locational restrictions that function as modifiers added to anaphoric expressions.
 
-- Ahn, Dorothy. 2020. <em class="loci">ASL IX to locus as a modifier</em>. Proceedings of NELS 50, MIT. <a href="https://www.dorothyahn.com/_files/ugd/697a33_645cbf2a52224f70b05f86d03b4330cb.pdf" class="loci">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:LkGwnXOMwfcC" class="loci">🎓google scholar</a>
+- Ahn, Dorothy. 2020. <em class="loci">ASL IX to locus as a modifier</em>. Proceedings of NELS 50, MIT. <a href="https://www.dorothyahn.com/_files/ugd/697a33_645cbf2a52224f70b05f86d03b4330cb.pdf" class="loci">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:LkGwnXOMwfcC" class="loci">🎓google scholar</a> 
 - Ahn, Dorothy, Annemarie Kocab & Kathryn Davidson. 2019. <em class="loci">The role of contrast in anaphoric expressions in ASL</em>. Proceedings of GLOW in Asia 2019, Seoul, Korea. August 6-9, 2019. <a href="https://www.dorothyahn.com/_files/ugd/697a33_cac4bd55c4ca4b67a03003da9c66d89e.pdf" class="loci">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&cstart=20&pagesize=80&citation_for_view=caKoCk4AAAAJ:4TOpqqG69KYC" class="loci">🎓google scholar</a>
 - Kocab, Annemarie, Dorothy Ahn, Gunnar Lund & Kathryn Davidson. 2019. <em class="loci">Reconsidering agreement in sign languages</em>. Poster at GLOW 42, Oslo, Norway. May 7-10. <a href="https://www.dorothyahn.com/_files/ugd/697a33_b47654000d8e4d66887df8a8b85c6a0a.pdf" class="loci">[poster]</a>
 - Ahn, Dorothy. 2019. <em class="loci">Anaphoric expressions in ASL</em>. MS, Lingbuzz. <a href="https://ling.auf.net/lingbuzz/004594" class="loci">pdf</a>
