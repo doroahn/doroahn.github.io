@@ -121,7 +121,7 @@ redirect_from:
 
 
 
-
+<image src="https://doroahn.github.io/images/da.jpg">
 I am an Assistant Professor in the <a href="https://ling.rutgers.edu/">Department of Linguistics</a> at Rutgers University and the P.I. of the <a href="https://sites.rutgers.edu/themallab/">Meaning Across Languages lab 😈</a>.
 
 As a semanticist interested in cross-linguistic patterns, I investigate how the underlying building blocks of meaning compose to derive the patterns that we see within and across languages. To do so, I make use of both formal theoretic and experimental approaches to natural language semantics and pragmatics.
