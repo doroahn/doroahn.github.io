@@ -173,7 +173,19 @@ pages={1--17}
 
 Demonstratives received much attention in semantics and philosophy for their deictic and non-deictic uses. In gesture linguistics, demonstratives also show a unique behavior of bringing meaning of gesture to at-issue. I propose a new analysis of demonstratives based their ability to refer to non-familiar entities.
 
-- Zhang, Ying & Dorothy Ahn. 2025. <em class="demonstrative">The most descriptive depiction</em>. Sinn und Bedeutung 30, Goethe University Frankfurt. <a href="https://doroahn.github.io/files/zhang-ahn-most-descriptive-depiction.pdf" class="demonstrative">[slides]</a>
+- Ahn, Dorothy. 2022. <em class="demonstrative">Indirectly direct: An account of demonstratives and pointing</em>. In Linguistics and Philosophy. 45. 1345–1393. <a href="https://link.springer.com/article/10.1007/s10988-022-09350-5" class="demonstrative">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:Se3iqnhoufwC" class="demonstrative">🎓google scholar</a> <a href="javascript:void(0);" class="demonstrative" onclick="toggleBib(this)">
+    bib
+  </a>
+  <pre div class="bib-entry"><code>@article{ahn2022indirect,
+title={Indirectly direct: {A}n account of demonstratives and pronouns},
+author={Ahn, Dorothy},
+journal={Linguistics and Philosophy},
+year={2022},
+volume={45},
+pages={1345--1393}
+}
+</code></pre>
+- Zhang, Ying & Dorothy Ahn. 2025. <em class="demonstrative">The most descriptive depiction</em>. Sinn und Bedeutung 30, Goethe University Frankfurt. <a href="https://doroahn.github.io/files/zhang-ahn-most-descriptive-depiction.pdf" class="demonstrative">slides</a>
 - Ahn, Dorothy. 2025. <em class="demonstrative">Definite expressions with and without deixis</em>. Proceedings of WCCFL41, UC Santa Cruz. <a href="https://www.lingref.com/cpp/wccfl/41/paper3727.pdf" class="demonstrative">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&cstart=20&pagesize=80&citation_for_view=caKoCk4AAAAJ:zYLM7Y9cAGgC" class="demonstrative">🎓google scholar</a> <a href="javascript:void(0);" class="demonstrative" onclick="toggleBib(this)">
     bib
   </a>
@@ -188,16 +200,18 @@ city={Somerville, MA, USA},
 pages={1--17}
 }
 </code></pre>
-- Ahn, Dorothy. 2022. <em class="demonstrative">Indirectly direct: An account of demonstratives and pointing</em>. In Linguistics and Philosophy. 45. 1345–1393. <a href="https://link.springer.com/article/10.1007/s10988-022-09350-5" class="demonstrative">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:Se3iqnhoufwC" class="demonstrative">🎓google scholar</a> <a href="javascript:void(0);" class="demonstrative" onclick="toggleBib(this)">
+- Ahn, Dorothy & Kathryn Davidson. 2017. <em class="demonstrative">Where pointing matters: English and Korean demonstratives</em>. NELS 2017, Iceland. October 27-20. <a href="/files/ahndavidson20217.pdf" class="demonstrative">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:u-x6o8ySG0sC" class="demonstrative">🎓google scholar</a> <a href="javascript:void(0);" class="demonstrative" onclick="toggleBib(this)">
     bib
   </a>
-  <pre div class="bib-entry"><code>@article{ahn2022indirect,
-title={Indirectly direct: {A}n account of demonstratives and pronouns},
-author={Ahn, Dorothy},
-journal={Linguistics and Philosophy},
-year={2022},
-volume={45},
-pages={1345--1393}
+  <pre div class="bib-entry"><code>@inproceedings{ahndavidson2018nels,
+	title={Where pointing matters: {E}nglish and {K}orean demonstratives},
+    author={Ahn, Dorothy and Davidson, Kathryn},
+    booktitle={Proceedings of the {Forty-Eighth Annual Meeting of the North East Linguistic Society}},
+    year={2018},
+    editor={Hucklebridge, Sherry and Nelson, Max},
+    publisher={GLSA, University of Massachusetts},
+    volume={1},
+    pages={15-24}
 }
 </code></pre>
 - Ahn, Dorothy & Sudha Arunachalam. 2020. <em class="demonstrative">Anaphoric that: Difference between adults and children</em>. Proceedings of BUCLD 44. October 25-27. <a href="https://www.lingref.com/bucld/44/BUCLD44-03.pdf" class="demonstrative">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:Y0pCki6q_DkC" class="demonstrative">🎓google scholar</a> <a href="javascript:void(0);" class="demonstrative" onclick="toggleBib(this)">
@@ -222,20 +236,6 @@ pages={1345--1393}
     year={2019},
     volume={1},
     journal={Studies in African Linguistics}
-}
-</code></pre>
-- Ahn, Dorothy & Kathryn Davidson. 2017. <em class="demonstrative">Where pointing matters: English and Korean demonstratives</em>. NELS 2017, Iceland. October 27-20. <a href="/files/ahndavidson20217.pdf" class="demonstrative">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:u-x6o8ySG0sC" class="demonstrative">🎓google scholar</a> <a href="javascript:void(0);" class="demonstrative" onclick="toggleBib(this)">
-    bib
-  </a>
-  <pre div class="bib-entry"><code>@inproceedings{ahndavidson2018nels,
-	title={Where pointing matters: {E}nglish and {K}orean demonstratives},
-    author={Ahn, Dorothy and Davidson, Kathryn},
-    booktitle={Proceedings of the {Forty-Eighth Annual Meeting of the North East Linguistic Society}},
-    year={2018},
-    editor={Hucklebridge, Sherry and Nelson, Max},
-    publisher={GLSA, University of Massachusetts},
-    volume={1},
-    pages={15-24}
 }
 </code></pre>
 
@@ -295,8 +295,8 @@ Unlike languages like English that obligatorily marks number, many languages are
 
 Conservativity of determiners is one of the universal constraints assumed for natural language semantics. In this line of work, we look at proportional quantifiers such as sixty percent in Harvard hired sixty percent women that seem non-conservative on the surface, identify cross-linguistic generalizations on how the non-conservative construals are morphosyntactically marked, and propose an analysis that preserves conservativity at the LF level.
 
-- Ahn, Dorothy & Heejeong Ko. 2022. <em class="quantifiers">On non-conservativity of Korean floating quantifiers​</em>. In Glossa. <a href="https://www.glossa-journal.org/article/id/5776/" class="quantifiers">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:W7OEmFMy1HYC" class="quantifiers">🎓google scholar</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:WF5omc3nYNoC" class="plurality">🎓google scholar</a> 
 - Ahn, Dorothy. & Uli Sauerland. 2017. <em class="quantifiers">Measure constructions with relative measures: Towards a syntax of non-conservative construals</em>. The Linguistic Review. doi:10.1515/tlr-2017-0001 <a href="https://www.degruyterbrill.com/document/doi/10.1515/tlr-2017-0001/html" class="quantifiers">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:3fE2CSJIrl8C" class="quantifiers">🎓google scholar</a> 
+- Ahn, Dorothy & Heejeong Ko. 2022. <em class="quantifiers">On non-conservativity of Korean floating quantifiers​</em>. In Glossa. <a href="https://www.glossa-journal.org/article/id/5776/" class="quantifiers">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:W7OEmFMy1HYC" class="quantifiers">🎓google scholar</a>  
 - Ahn, Dorothy. & Uli Sauerland. 2015. <em class="quantifiers">The grammar of relative measurement</em>. Semantics and Linguistic Theory, 25, 125-142. doi:10.3765/salt.v25i0.3062 <a href="https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/25.125" class="quantifiers">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:2osOgNQ5qMEC" class="quantifiers">🎓google scholar</a> 
 - Ahn, Dorothy. & Uli Sauerland. 2015. <em class="quantifiers">Reverse Quantification with Proportional Quantifiers</em>. NELS 45: Proceedings of the Forty-Fifth Annual Meeting of the North East Linguistic Society, MIT. <a href="https://www.dorothyahn.com/_files/ugd/697a33_5fa95a929a284f1aa471761ebfb22685.pdf" class="quantifiers">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:UeHWp8X0CEIC" class="quantifiers">🎓google scholar</a> 
 
@@ -317,5 +317,5 @@ I propose that additive either in sentences such as Jin did not dance either is 
 
 **<span class="korean">Constructions in Korean</span>**
 
-- Ye, Ariela & Dorothy Ahn. 2025. <em class="korean">Rethinking embeddability and context sensitivity in Honorification: Evidence from Korean _si_</em>. SALT 35. <a href="https://doroahn.github.io/files/ye_ahn_2025_salt35-korean-si.pdf" class="korean">[draft]</a>
+- Ye, Ariela & Dorothy Ahn. 2025. <em class="korean">Rethinking embeddability and context sensitivity in Honorification: Evidence from Korean _si_</em>. SALT 35. <a href="https://doroahn.github.io/files/ye_ahn_2025_salt35-korean-si.pdf" class="korean">draft</a>
 - Ahn, Dorothy. 2018. <em class="korean">Korean classifier-less constructions</em>. Proceedings of Sinn und Bedeutung 22. <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:_kc_bZDykSQC" class="korean">🎓google scholar</a>
