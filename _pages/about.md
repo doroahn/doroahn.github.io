@@ -139,7 +139,7 @@ Recent News
 
 📑The proceedings paper from my **SuB 28** invited talk on _A four-way distinction in English definite expressions_ is now published <a href="https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/1104">[pdf]</a>
 
-📑The proceedings paper from my **WCCFL 41** invited talk on _Definite Expressions with and without Deixis_ is now published <a href="https://www.lingref.com/cpp/wccfl/41/paper3727.pdf">[pdf]</a> <a class="af-btn" href="https://www.lingref.com/cpp/wccfl/41/paper3727.pdf">pdf</a>
+📑The proceedings paper from my **WCCFL 41** invited talk on _Definite Expressions with and without Deixis_ is now published <a href="https://www.lingref.com/cpp/wccfl/41/paper3727.pdf">[pdf]</a> 
 
 🎤Maria Kouneli and Dorothy Ahn presented on <em>The semantics of demonstrative spreading in Kipsigis</em> at <a href="[https://vicom.info/sub30-lingdem/](https://wp.nyu.edu/artsampscience-nels56/)">NELS56</a> <a href="https://doroahn.github.io/files/ahn-kouneli-2025-nels-kipsigisdem-poster.pdf">[poster]</a>
 
@@ -147,9 +147,9 @@ Recent News
 
 🎤Ying Zhang and Dorothy Ahn presented on <em>kind-referring demonstratives</em> at <a href="https://vicom.info/sub30-lingdem/">LingDem</a>, a special session of <strong>SuB 2025</strong> <a href="https://doroahn.github.io/files/zhang-ahn-SuB2025-abstract.pdf">[abstract]</a>
 
-🎙️Dorothy Ahn to give invited talk at **LENLS 21** in November, 2025
+🎙️Dorothy Ahn to give invited talk at <a href="https://lenls.github.io/lenls21/">**LENLS 21**</a> in November, 2025
 
-🎤Ariela Ye and Dorothy Ahn presented on Korean honorifics at **SALT 2025** at Harvard. <a href="https://saltconf.github.io/salt35/">[SALT35]</a> <a href="https://osf.io/93tng/">[osf]</a> 
+🎤Ariela Ye and Dorothy Ahn presented on Korean honorifics at <a href="https://saltconf.github.io/salt35/">**SALT 2025**</a> at Harvard. <a href="https://osf.io/93tng/">[osf]</a> 
 
 
 Publications
