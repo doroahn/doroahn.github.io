@@ -6,11 +6,10 @@ author_profile: true
 
 Handouts from talks
 
-**Sinn und Bedeutung 30** \| Goethe University Frankfurt \| September 23-27, 2025
-
+**Language and Cognition** | Harvard University | October 28, 2025
 
 <table>
-  <tr>
+ <tr>
     <td>
       <strong>Dorothy Ahn</strong><br>
       Language & Cognition: Reference makers in discourse
@@ -19,6 +18,13 @@ Handouts from talks
       <a href="https://doroahn.github.io/files/ahn_2025_langcog_referencemakers.pdf">[pdf]</a>
     </td>
   </tr>
+  </table>
+
+**Sinn und Bedeutung 30** \| Goethe University Frankfurt \| September 23-27, 2025
+
+
+<table>
+ 
   <tr>
     <td>
       <strong>Ying Zhang &amp; Dorothy Ahn</strong><br>
