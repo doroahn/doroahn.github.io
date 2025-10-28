@@ -12,6 +12,15 @@ Handouts from talks
 <table>
   <tr>
     <td>
+      <strong>Dorothy Ahn</strong><br>
+      Language & Cognition: Reference makers in discourse
+    </td>
+    <td>
+      <a href="https://doroahn.github.io/files/ahn_2025_langcog_referencemakers.pdf">[pdf]</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <strong>Ying Zhang &amp; Dorothy Ahn</strong><br>
       The most descriptive depiction (LINGDEM)
     </td>
