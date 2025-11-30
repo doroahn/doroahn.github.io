@@ -12,10 +12,10 @@ Handouts from talks
  <tr>
     <td>
       <strong>Dorothy Ahn</strong><br>
-      Language & Cognition: Reference makers in discourse
+      Fake nouns: Reconsidering the role of presuppositions in reference(LENLS21)
     </td>
     <td>
-      <a href="https://doroahn.github.io/files/ahn_2025_langcog_referencemakers.pdf">[pdf]</a>
+      <a href="https://doroahn.github.io/files/ahn_2025_lenls_fakenouns.pdf">[pdf]</a>
     </td>
   </tr>
   </table>
