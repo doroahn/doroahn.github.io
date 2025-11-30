@@ -6,13 +6,13 @@ author_profile: true
 
 Handouts from talks
 
-**Language and Cognition** | Harvard University | October 28, 2025
+**LENLS21** \| Nagoya University, Japan \| November 28-30, 2025
 
 <table>
  <tr>
     <td>
       <strong>Dorothy Ahn</strong><br>
-      Fake nouns: Reconsidering the role of presuppositions in reference(LENLS21)
+      Fake nouns: Reconsidering the role of presuppositions in reference
     </td>
     <td>
       <a href="https://doroahn.github.io/files/ahn_2025_lenls_fakenouns.pdf">[pdf]</a>
