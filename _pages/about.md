@@ -135,6 +135,8 @@ I received my Ph.D in Linguistics from <a href="https://linguistics.fas.harvard.
 Recent News
 ======
 
+🎉Dorothy Ahn, <a href="https://cogsci.jhu.edu/directory/annemarie-kocab/">Annemarie Kocab</a> and <a href="https://kathryndavidson.scholars.harvard.edu/">Kathryn Davidson</a>'s article on Sign Language Loci has been accepted for publication in **Language** (to appear in March)
+
 🎉Dorothy Ahn and <a href="https://sites.google.com/view/zhuziling/">Ziling Zhu</a>'s article on Mandarin bridging is now published in **Natural Language Semantics** <a href="https://link.springer.com/article/10.1007/s11050-025-09237-8">[pdf]</a>
 
 📑The proceedings paper from my **SuB 28** invited talk on _A four-way distinction in English definite expressions_ is now published <a href="https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/1104">[pdf]</a>
@@ -147,7 +149,7 @@ Recent News
 
 🎤Ying Zhang and Dorothy Ahn presented on <em>kind-referring demonstratives</em> at <a href="https://vicom.info/sub30-lingdem/">LingDem</a>, a special session of <strong>SuB 2025</strong> <a href="https://doroahn.github.io/files/zhang-ahn-SuB2025-abstract.pdf">[abstract]</a>
 
-🎙️Dorothy Ahn to give invited talk at <a href="https://lenls.github.io/lenls21/">**LENLS 21**</a> in November, 2025
+🎙️Recent talk at <a href="https://lenls.github.io/lenls21/">**LENLS 21**</a> on fake nouns.
 
 🎤Ariela Ye and Dorothy Ahn presented on Korean honorifics at <a href="https://saltconf.github.io/salt35/">**SALT 2025**</a> at Harvard. <a href="https://osf.io/93tng/">[osf]</a> 
 
@@ -156,6 +158,7 @@ Publications
 ======
 
 **peer-reviewed journals**
+- Ahn, Dorothy, Annemarie Kocab & Kathryn Davidson. to appear <em class="loci">Pragmatics of spatial descriptions: Sign language loci</em>. Language. 
 - Ahn, Dorothy & Ziling Zhu. 2025. <em class="definiteness">A bridge to definiteness: Identifying unique and relational definites through bridging</em>. Natural Language Semantics. <a href="https://link.springer.com/article/10.1007/s11050-025-09237-8" class="definiteness">pdf</a>
 - Ahn, Dorothy. 2022. <em class="demonstrative">Indirectly direct: An account of demonstratives and pointing</em>. In Linguistics and Philosophy. 45. 1345–1393. <a href="https://link.springer.com/article/10.1007/s10988-022-09350-5" class="demonstrative">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:Se3iqnhoufwC" class="demonstrative">🎓google scholar</a> 
 - Ahn, Dorothy & Heejeong Ko. 2022. <em class="quantifiers">On non-conservativity of Korean floating quantifiers​</em>. In Glossa. <a href="https://www.glossa-journal.org/article/id/5776/" class="quantifiers">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:W7OEmFMy1HYC" class="quantifiers">🎓google scholar</a> 
