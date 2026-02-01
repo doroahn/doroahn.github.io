@@ -143,11 +143,11 @@ Recent News
 
 🎤Dorothy Ahn and <a href="https://sites.rutgers.edu/maria-kouneli/" target="_blank">Maria Kouneli</a> presented on <em>The semantics of demonstrative spreading in Kipsigis</em> at <a href="https://wp.nyu.edu/artsampscience-nels56/" target="_blank" >NELS56</a> <a href="https://doroahn.github.io/files/ahn-kouneli-2025-nels-kipsigisdem-poster.pdf">[poster]</a>
 
-🎤<a href="https://www.vinczarnecki.com/" target="_blank" >Vincent Czarnecki</a> and Dorothy Ahn to presented on <em>Recycling Spatial Representations for Temporal Interpretations</em> at <strong>SuB 2025</strong> <a href="https://doroahn.github.io/files/czarnecki_ahn_2025_sub30-abstract.pdf" target="_blank">[abstract]</a>
+🎤<a href="https://www.vinczarnecki.com/" target="_blank" >Vincent Czarnecki</a> and Dorothy Ahn to presented on <em>Recycling Spatial Representations for Temporal Interpretations</em> at <strong>SuB 2025</strong> <a href="https://doroahn.github.io/files/czarnecki_ahn_2026_sub_spatial.pdf" target="_blank">[proceedings draft]</a>
 
-🎤<a href="https://yyyingz.github.io/" target="_blank">Ying Zhang</a> and Dorothy Ahn presented on <em>kind-referring demonstratives</em> at <a href="https://vicom.info/sub30-lingdem/" target="_blank" >LingDem</a>, a special session of <strong>SuB 2025</strong> <a href="https://doroahn.github.io/files/zhang-ahn-SuB2025-abstract.pdf">[abstract]</a>
+🎤<a href="https://yyyingz.github.io/" target="_blank">Ying Zhang</a> and Dorothy Ahn presented on <em>kind-referring demonstratives</em> at <a href="https://vicom.info/sub30-lingdem/" target="_blank" >LingDem</a>, a special session of <strong>SuB 2025</strong> <a href="https://doroahn.github.io/files/zhang_ahn_2026_most-descriptive-depiction.pdf">[proceedings draft]</a>
 
-🎙️Recent invited talk at <a href="https://lenls.github.io/lenls21/" target="_blank" >**LENLS 21**</a> on fake nouns. <a href="https://lenls.github.io/lenls21/LENLS21OnlineProceedings.pdf" target="_blank">[abstract]</a>
+🎙️Dorothy Ahn gave an invited talk at <a href="https://lenls.github.io/lenls21/" target="_blank" >**LENLS 21**</a> on fake nouns, namely nouns that are bound under focus operators without their content being interpreted in alternatives. <a href="https://lenls.github.io/lenls21/LENLS21OnlineProceedings.pdf" target="_blank">[abstract]</a>
 
 🎤Ariela Ye and Dorothy Ahn presented on Korean honorifics at <a href="https://saltconf.github.io/salt35/" target="_blank" >**SALT 2025**</a> at Harvard. <a href="https://osf.io/93tng/" target="_blank" >[osf]</a> 
 
