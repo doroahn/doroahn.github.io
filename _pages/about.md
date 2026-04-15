@@ -147,7 +147,7 @@ Recent News
 
 🎤<a href="https://yyyingz.github.io/" target="_blank">Ying Zhang</a> and Dorothy Ahn presented on <em>kind-referring demonstratives</em> at <a href="https://vicom.info/sub30-lingdem/" target="_blank" >LingDem</a>, a special session of <strong>SuB 2025</strong> <a href="https://doroahn.github.io/files/zhang_ahn_2026_most-descriptive-depiction.pdf">[proceedings draft]</a>
 
-🎙️Dorothy Ahn gave an invited talk at <a href="https://lenls.github.io/lenls21/" target="_blank" >**LENLS 21**</a> on fake nouns, namely nouns that are bound under focus operators without their content being interpreted in alternatives. <a href="https://lenls.github.io/lenls21/LENLS21OnlineProceedings.pdf" target="_blank">[abstract]</a> <a href="https://doroahn.github.io/files/ahn_2025_lenls_fakenouns.pdf" target="_blank">[proceedings]</a>
+🎙️Dorothy Ahn gave an invited talk at <a href="https://lenls.github.io/lenls21/" target="_blank" >**LENLS 21**</a> on fake nouns, namely nouns that are bound under focus operators without their content being interpreted in alternatives. <a href="https://lenls.github.io/lenls21/LENLS21OnlineProceedings.pdf" target="_blank">[abstract]</a> <a href="https://doroahn.github.io/files/ahn_lenls21_proceedings-fakenouns.pdf" target="_blank">[proceedings]</a>
 
 
 Publications
