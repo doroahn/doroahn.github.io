@@ -154,7 +154,19 @@ Publications
 ======
 
 **peer-reviewed journals**
-- Ahn, Dorothy, Annemarie Kocab & Kathryn Davidson. 2026 <em class="loci">Pragmatics of spatial descriptions: Sign language loci</em>. Language. <a href="https://www.cambridge.org/core/journals/language/article/pragmatics-of-spatial-descriptions-sign-language-loci/51FFFC3016DC611EA8CC58AF6C534C86" class="loci">pdf</a>
+- Ahn, Dorothy, Annemarie Kocab & Kathryn Davidson. 2026 <em class="loci">Pragmatics of spatial descriptions: Sign language loci</em>. Language. <a href="https://www.cambridge.org/core/journals/language/article/pragmatics-of-spatial-descriptions-sign-language-loci/51FFFC3016DC611EA8CC58AF6C534C86" class="loci">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&sortby=pubdate&citation_for_view=caKoCk4AAAAJ:L8Ckcad2t8MC" class="loci">🎓google scholar</a> <a href="javascript:void(0);" class="loci" onclick="toggleBib(this)">
+    bib
+  </a>
+  <pre div class="bib-entry"><code>@article{ahnkocabdavidson2026loci,
+    title={Pragmatics of spatial descriptions: Sign language loci},
+    author={Ahn, Dorothy and Kocab, Annemarie and Davidson, Kathryn},
+    year={2026},
+    booktitle={Language},
+    pages={1--40},
+	volume={102},
+    publisher={LSA, Cambridge University Press}
+}
+</code></pre>
 - Ahn, Dorothy & Ziling Zhu. 2025. <em class="definiteness">A bridge to definiteness: Identifying unique and relational definites through bridging</em>. Natural Language Semantics. <a href="https://link.springer.com/article/10.1007/s11050-025-09237-8" class="definiteness">pdf</a>
 - Ahn, Dorothy. 2022. <em class="demonstrative">Indirectly direct: An account of demonstratives and pointing</em>. In Linguistics and Philosophy. 45. 1345–1393. <a href="https://link.springer.com/article/10.1007/s10988-022-09350-5" class="demonstrative">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:Se3iqnhoufwC" class="demonstrative">🎓google scholar</a> 
 - Ahn, Dorothy & Heejeong Ko. 2022. <em class="quantifiers">On non-conservativity of Korean floating quantifiers​</em>. In Glossa. <a href="https://www.glossa-journal.org/article/id/5776/" class="quantifiers">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:W7OEmFMy1HYC" class="quantifiers">🎓google scholar</a> 
