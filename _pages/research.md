@@ -243,6 +243,7 @@ pages={1--17}
 
 Sign languages such as American Sign Language (ASL) can use the indexical pointing handshape (IX; indexical) to refer to entities present in the context by pointing directly at them. Signers can also point to abstract locations in the signing space (locus, loci) to refer to entities who are not present in the content but familiar in the discourse. This use of loci in sign languages has been analyzed as overt instantiations of a referent tracking mechanism that is covert in spoken languages (see Lillo-Martin & Klima 1990). I propose an alternative account of loci as locational restrictions that function as modifiers added to anaphoric expressions.
 
+- Ahn, Dorothy, Annemarie Kocab & Kathryn Davidson. 2026 <em class="loci">Pragmatics of spatial descriptions: Sign language loci</em>. Language. <a href="https://www.cambridge.org/core/journals/language/article/pragmatics-of-spatial-descriptions-sign-language-loci/51FFFC3016DC611EA8CC58AF6C534C86" class="loci">pdf</a>
 - Ahn, Dorothy. 2020. <em class="loci">ASL IX to locus as a modifier</em>. Proceedings of NELS 50, MIT. <a href="https://www.dorothyahn.com/_files/ugd/697a33_645cbf2a52224f70b05f86d03b4330cb.pdf" class="loci">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:LkGwnXOMwfcC" class="loci">🎓google scholar</a> <a href="javascript:void(0);" class="loci" onclick="toggleBib(this)">
     bib
   </a>
