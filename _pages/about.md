@@ -135,7 +135,7 @@ I received my Ph.D in Linguistics from <a href="https://linguistics.fas.harvard.
 Recent News
 ======
 
-🎉Dorothy Ahn, <a href="https://cogsci.jhu.edu/directory/annemarie-kocab/" target="_blank">Annemarie Kocab</a> and <a href="https://kathryndavidson.scholars.harvard.edu/" target="_blank">Kathryn Davidson</a>'s article on Sign Language Loci has been accepted for publication in **Language** (to appear in March)
+🎉Dorothy Ahn, <a href="https://cogsci.jhu.edu/directory/annemarie-kocab/" target="_blank">Annemarie Kocab</a> and <a href="https://kathryndavidson.scholars.harvard.edu/" target="_blank">Kathryn Davidson</a>'s article on Sign Language Loci is now published in **Language** <a href="https://www.cambridge.org/core/journals/language/article/pragmatics-of-spatial-descriptions-sign-language-loci/51FFFC3016DC611EA8CC58AF6C534C86" target="_blank">[pdf]</a>
 
 📑Dorothy Ahn and <a href="https://sites.google.com/view/zhuziling/" target="_blank">Ziling Zhu</a>'s article on Mandarin bridging is now published in **Natural Language Semantics** <a href="https://link.springer.com/article/10.1007/s11050-025-09237-8" target="_blank" >[pdf]</a>
 
@@ -148,8 +148,6 @@ Recent News
 🎤<a href="https://yyyingz.github.io/" target="_blank">Ying Zhang</a> and Dorothy Ahn presented on <em>kind-referring demonstratives</em> at <a href="https://vicom.info/sub30-lingdem/" target="_blank" >LingDem</a>, a special session of <strong>SuB 2025</strong> <a href="https://doroahn.github.io/files/zhang_ahn_2026_most-descriptive-depiction.pdf">[proceedings draft]</a>
 
 🎙️Dorothy Ahn gave an invited talk at <a href="https://lenls.github.io/lenls21/" target="_blank" >**LENLS 21**</a> on fake nouns, namely nouns that are bound under focus operators without their content being interpreted in alternatives. <a href="https://lenls.github.io/lenls21/LENLS21OnlineProceedings.pdf" target="_blank">[abstract]</a>
-
-🎤Ariela Ye and Dorothy Ahn presented on Korean honorifics at <a href="https://saltconf.github.io/salt35/" target="_blank" >**SALT 2025**</a> at Harvard. <a href="https://osf.io/93tng/" target="_blank" >[osf]</a> 
 
 
 Publications
