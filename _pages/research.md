@@ -128,8 +128,21 @@ redirect_from:
 
 It is generally assumed that pronouns, definites, and demonstratives are separate semantic elements. However, cross-linguistic studies suggest that the morphosyntactically based distinction between these expressions do not always align with underlying meaning. In this line of work, I argue that the underlying semantics of these expressions are identical except for the restrictions that they carry, proposing a unified analysis that extends the general schema of a definite.
 
-- Ahn, Dorothy & Ziling Zhu. 2025. <em class="definiteness">A bridge to definiteness: Identifying unique and relational definites through bridging</em>. Natural Language Semantics. <a href="https://link.springer.com/article/10.1007/s11050-025-09237-8" class="definiteness">pdf</a>
-- Ahn, Dorothy. 2024. <em class="definiteness">A four-way distinction in English definite descriptions</em>. Proceedings of SuB28, University of Bochum, Germany 2023. <a href="https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/1104" class="definiteness">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&cstart=20&pagesize=80&citation_for_view=caKoCk4AAAAJ:qjMakFHDy7sC" class="definiteness">🎓google scholar</a> <a href="javascript:void(0);" class="definiteness" onclick="toggleBib(this)">
+- Ahn, Dorothy & Ziling Zhu. 2025. <em class="definiteness">A bridge to definiteness: Identifying unique and relational definites through bridging</em>. Natural Language Semantics. <a href="https://link.springer.com/article/10.1007/s11050-025-09237-8" class="definiteness" target="_blank">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&sortby=pubdate&citation_for_view=caKoCk4AAAAJ:Zph67rFs4hoC" class="definiteness" target="_blank">🎓google scholar</a> <a href="javascript:void(0);" class="definiteness" onclick="toggleBib(this)">
+    bib
+  </a>
+  <pre div class="bib-entry"><code>@article{ahnzhu2025bridging,
+    author={Ahn, Dorothy and Zhu, Ziling},
+title={A bridge to definiteness: {I}dentifying unique and relational definites through bridging},
+year={2025},
+    booktitle = {Natural Language Semantics},
+publisher={Springer},
+city={London},
+volume={33}, 
+pages={433--484}
+} 
+</code></pre>
+- Ahn, Dorothy. 2024. <em class="definiteness">A four-way distinction in English definite descriptions</em>. Proceedings of SuB28, University of Bochum, Germany 2023. <a href="https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/1104" class="definiteness">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&cstart=20&pagesize=80&citation_for_view=caKoCk4AAAAJ:qjMakFHDy7sC" class="definiteness" target="_blank">🎓google scholar</a> <a href="javascript:void(0);" class="definiteness" onclick="toggleBib(this)">
     bib
   </a>
   <pre div class="bib-entry"><code>@incollection{ahn2024definite,
@@ -143,7 +156,7 @@ editor={Baumann, Geraldine and Gutzmann, Daniel  and Koopman, Jonas  and Liefke,
 pages={1--17}
 } 
 </code></pre>
-- Ahn, Dorothy. 2019. <em class="definiteness">THAT thesis: A competition-based mechanism for anaphoric expressions</em>. PhD thesis, Harvard University. <a href="https://ling.auf.net/lingbuzz/004742" class="definiteness">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:UebtZRa9Y70C" class="definiteness">🎓google scholar</a> <a href="javascript:void(0);" class="definiteness" onclick="toggleBib(this)">
+- Ahn, Dorothy. 2019. <em class="definiteness">THAT thesis: A competition-based mechanism for anaphoric expressions</em>. PhD thesis, Harvard University. <a href="https://ling.auf.net/lingbuzz/004742" class="definiteness" target="_blank">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:UebtZRa9Y70C" class="definiteness" target="_blank">🎓google scholar</a> <a href="javascript:void(0);" class="definiteness" onclick="toggleBib(this)">
     bib
   </a>
   <pre div class="bib-entry"><code>@phdthesis{ahn2019thatthesis,
@@ -285,7 +298,7 @@ editor={Cho, Sae-Youn},
     pages={1--20}
 }
 </code></pre>
-- Kocab, Annemarie, Dorothy Ahn, Gunnar Lund & Kathryn Davidson. 2019. <em class="loci">Reconsidering agreement in sign languages</em>. Poster at GLOW 42, Oslo, Norway. May 7-10. <a href="https://www.dorothyahn.com/_files/ugd/697a33_b47654000d8e4d66887df8a8b85c6a0a.pdf" class="loci">[poster]</a> <a href="javascript:void(0);" class="loci" onclick="toggleBib(this)">
+- Kocab, Annemarie, Dorothy Ahn, Gunnar Lund & Kathryn Davidson. 2019. <em class="loci">Reconsidering agreement in sign languages</em>. Poster at GLOW 42, Oslo, Norway. May 7-10. <a href="https://www.dorothyahn.com/_files/ugd/697a33_b47654000d8e4d66887df8a8b85c6a0a.pdf" class="loci">poster</a> <a href="javascript:void(0);" class="loci" onclick="toggleBib(this)">
     bib
   </a>
   <pre div class="bib-entry"><code>@misc{kocab2019agreement,
@@ -301,7 +314,7 @@ editor={Cho, Sae-Youn},
 
 Unlike languages like English that obligatorily marks number, many languages are 'optional number languages', meaning that they allow bare noun forms to be compatible with both singular and plural interpretations. I investigate one of the languages that have been identified as having an optional plural marker, Korean, and show that there is a more systematic restriction on when plural marker can be omitted in Korean. In Ahn, Saha, & Sauerland 2020, we present a novel observation that Korean and Bangla plural markers behave as positive polarity items, while in Ahn & Snedeker, we argue that definitely construed nouns must be number marked in Korean.
 
-- Ahn, Dorothy, Ankana Saha, & Uli Sauerland. 2020. <em class="plurality">Positively Polar Plurals</em>. Proceedings of Semantics and Linguistic Theory (SALT) 30, Cornell. August 17-20, 2020 <a href="https://www.dorothyahn.com/_files/Ahn_Saha_Sauerland_SALT30_PPP.pdf" class="plurality">[pdf]</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:5nxA0vEk-isC" class="plurality">🎓google scholar</a> 
+- Ahn, Dorothy, Ankana Saha, & Uli Sauerland. 2020. <em class="plurality">Positively Polar Plurals</em>. Proceedings of Semantics and Linguistic Theory (SALT) 30, Cornell. August 17-20, 2020 <a href="https://www.dorothyahn.com/_files/Ahn_Saha_Sauerland_SALT30_PPP.pdf" class="plurality">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:5nxA0vEk-isC" class="plurality">🎓google scholar</a> 
 - Ahn, Dorothy & Jesse Snedeker. 2021. <em class="plurality">Early acquisition of plural morphology in a classifier language: Data from Korean 2-4 year olds</em>. Language Learning and Development. <a href="https://www.tandfonline.com/eprint/JDYWNDGUDDEFT3T82K6V/full?target=10.1080/15475441.2021.1922280" class="plurality">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:WF5omc3nYNoC" class="plurality">🎓google scholar</a> 
 
 **​<span class="quantifiers">Relative measure constructions</span>**
