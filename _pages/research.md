@@ -128,6 +128,7 @@ redirect_from:
 
 It is generally assumed that pronouns, definites, and demonstratives are separate semantic elements. However, cross-linguistic studies suggest that the morphosyntactically based distinction between these expressions do not always align with underlying meaning. In this line of work, I argue that the underlying semantics of these expressions are identical except for the restrictions that they carry, proposing a unified analysis that extends the general schema of a definite.
 
+- Ahn, Dorothy. to appear. <em class="definiteness">Fake nouns: Reconsidering the role of presupposition in reference</em>. Proceedings of LENLS 21, Nagoya University, Japan 2025. <a href="https://doroahn.github.io/files/ahn_lenls21_proceedings-fakenouns.pdf" target="_blank">pdf</a>
 - Ahn, Dorothy & Ziling Zhu. 2025. <em class="definiteness">A bridge to definiteness: Identifying unique and relational definites through bridging</em>. Natural Language Semantics. <a href="https://link.springer.com/article/10.1007/s11050-025-09237-8" class="definiteness" target="_blank">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&sortby=pubdate&citation_for_view=caKoCk4AAAAJ:Zph67rFs4hoC" class="definiteness" target="_blank">🎓google scholar</a> <a href="javascript:void(0);" class="definiteness" onclick="toggleBib(this)">
     bib
   </a>
@@ -198,7 +199,7 @@ volume={45},
 pages={1345--1393}
 }
 </code></pre>
-- Zhang, Ying & Dorothy Ahn. 2025. <em class="demonstrative">The most descriptive depiction</em>. Sinn und Bedeutung 30, Goethe University Frankfurt. <a href="https://doroahn.github.io/files/zhang-ahn-most-descriptive-depiction.pdf" class="demonstrative">slides</a>
+- Zhang, Ying and Dorothy Ahn. to appear. <em class="demonstrative">kind-referring demonstratives</em>. Proceedings of Sinn und Bedeutung 2025, Goethe University Frankfurt, Germany. <a href="https://doroahn.github.io/files/zhang_ahn_2026_most-descriptive-depiction.pdf">pdf</a>
 - Ahn, Dorothy. 2025. <em class="demonstrative">Definite expressions with and without deixis</em>. Proceedings of WCCFL41, UC Santa Cruz. <a href="https://www.lingref.com/cpp/wccfl/41/paper3727.pdf" class="demonstrative">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&cstart=20&pagesize=80&citation_for_view=caKoCk4AAAAJ:zYLM7Y9cAGgC" class="demonstrative">🎓google scholar</a> <a href="javascript:void(0);" class="demonstrative" onclick="toggleBib(this)">
     bib
   </a>
@@ -343,5 +344,6 @@ I propose that additive either in sentences such as Jin did not dance either is 
 
 **<span class="korean">Constructions in Korean</span>**
 
+- Czarnecki, Vincent and Dorothy Ahn. to appear. <em class="korean">Recycling Spatial Representations for Temporal Interpretations</em>. Proceedings of Sinn und Bedeutung 2025, Goethe University Frankfurt, Germany. <a href="https://doroahn.github.io/files/czarnecki_ahn_2026_sub_spatial.pdf" target="_blank">pdf</a>
 - Ye, Ariela & Dorothy Ahn. 2025. <em class="korean">Rethinking embeddability and context sensitivity in Honorification: Evidence from Korean _si_</em>. SALT 35. <a href="https://doroahn.github.io/files/ye_ahn_2025_salt35-korean-si.pdf" class="korean">draft</a>
 - Ahn, Dorothy. 2018. <em class="korean">Korean classifier-less constructions</em>. Proceedings of Sinn und Bedeutung 22. <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:_kc_bZDykSQC" class="korean">🎓google scholar</a>
