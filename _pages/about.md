@@ -176,6 +176,9 @@ Publications
 
 ​
 **peer-reviewed proceedings**
+- Ahn, Dorothy. to appear. <em class="definiteness">Fake nouns: Reconsidering the role of presupposition in reference</em>. Proceedings of LENLS 21, Nagoya University, Japan 2025. <a href="https://doroahn.github.io/files/ahn_lenls21_proceedings-fakenouns.pdf" target="_blank">pdf</a>
+- Czarnecki, Vincent and Dorothy Ahn. to appear. <em class="korean">Recycling Spatial Representations for Temporal Interpretations</em>. Proceedings of Sinn und Bedeutung 2025, Goethe University Frankfurt, Germany. <a href="https://doroahn.github.io/files/czarnecki_ahn_2026_sub_spatial.pdf" target="_blank">pdf</a>
+- Zhang, Ying and Dorothy Ahn. to appear. <em class="demonstrative">kind-referring demonstratives</em>. Proceedings of Sinn und Bedeutung 2025, Goethe University Frankfurt, Germany. <a href="https://doroahn.github.io/files/zhang_ahn_2026_most-descriptive-depiction.pdf">pdf</a>
 - Ahn, Dorothy. 2024. <em class="definiteness">A four-way distinction in English definite descriptions</em>. Proceedings of SuB28, University of Bochum, Germany 2023. <a href="https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/1104" class="definiteness">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&cstart=20&pagesize=80&citation_for_view=caKoCk4AAAAJ:qjMakFHDy7sC" class="definiteness">🎓google scholar</a> <a href="javascript:void(0);" class="definiteness" onclick="toggleBib(this)">
     bib
   </a>
