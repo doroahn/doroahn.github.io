@@ -269,7 +269,7 @@ Sign languages such as American Sign Language (ASL) can use the indexical pointi
     publisher={LSA, Cambridge University Press}
 }
 </code></pre>
-- Ahn, Dorothy. 2020. <em class="loci">ASL IX to locus as a modifier</em>. Proceedings of NELS 50, MIT. <a href="https://www.dorothyahn.com/_files/ugd/697a33_645cbf2a52224f70b05f86d03b4330cb.pdf" class="loci">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:LkGwnXOMwfcC" class="loci">🎓google scholar</a> <a href="javascript:void(0);" class="loci" onclick="toggleBib(this)">
+- Ahn, Dorothy. 2020. <em class="loci">ASL IX to locus as a modifier</em>. Proceedings of NELS 50, MIT. <a href="https://doroahn.github.io/files/ahn_nels50.pdf" class="loci">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:LkGwnXOMwfcC" class="loci">🎓google scholar</a> <a href="javascript:void(0);" class="loci" onclick="toggleBib(this)">
     bib
   </a>
   <pre div class="bib-entry"><code>@incollection{ahn2020nels,
@@ -283,7 +283,7 @@ Sign languages such as American Sign Language (ASL) can use the indexical pointi
     city={Amherst, MA}
 }
 </code></pre>
-- Ahn, Dorothy, Annemarie Kocab & Kathryn Davidson. 2019. <em class="loci">The role of contrast in anaphoric expressions in ASL</em>. Proceedings of GLOW in Asia 2019, Seoul, Korea. August 6-9, 2019. <a href="https://www.dorothyahn.com/_files/ugd/697a33_cac4bd55c4ca4b67a03003da9c66d89e.pdf" class="loci">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&cstart=20&pagesize=80&citation_for_view=caKoCk4AAAAJ:4TOpqqG69KYC" class="loci">🎓google scholar</a> <a href="javascript:void(0);" class="loci" onclick="toggleBib(this)">
+- Ahn, Dorothy, Annemarie Kocab & Kathryn Davidson. 2019. <em class="loci">The role of contrast in anaphoric expressions in ASL</em>. Proceedings of GLOW in Asia 2019, Seoul, Korea. August 6-9, 2019. <a href="https://doroahn.github.io/files/Ahn_Kocab_Davidson_GLOWA2019" class="loci">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&cstart=20&pagesize=80&citation_for_view=caKoCk4AAAAJ:4TOpqqG69KYC" class="loci">🎓google scholar</a> <a href="javascript:void(0);" class="loci" onclick="toggleBib(this)">
     bib
   </a>
   <pre div class="bib-entry"><code>@inproceedings{ahnkocab2019,
@@ -298,7 +298,7 @@ editor={Cho, Sae-Youn},
     pages={1--20}
 }
 </code></pre>
-- Kocab, Annemarie, Dorothy Ahn, Gunnar Lund & Kathryn Davidson. 2019. <em class="loci">Reconsidering agreement in sign languages</em>. Poster at GLOW 42, Oslo, Norway. May 7-10. <a href="https://www.dorothyahn.com/_files/ugd/697a33_b47654000d8e4d66887df8a8b85c6a0a.pdf" class="loci">poster</a> <a href="javascript:void(0);" class="loci" onclick="toggleBib(this)">
+- Kocab, Annemarie, Dorothy Ahn, Gunnar Lund & Kathryn Davidson. 2019. <em class="loci">Reconsidering agreement in sign languages</em>. Poster at GLOW 42, Oslo, Norway. May 7-10. <a href="https://doroahn.github.io/files/Kocab-Ahn-Lund-Davidson-2019-GLOW42poster" class="loci">poster</a> <a href="javascript:void(0);" class="loci" onclick="toggleBib(this)">
     bib
   </a>
   <pre div class="bib-entry"><code>@misc{kocab2019agreement,
@@ -324,15 +324,15 @@ Conservativity of determiners is one of the universal constraints assumed for na
 - Ahn, Dorothy. & Uli Sauerland. 2017. <em class="quantifiers">Measure constructions with relative measures: Towards a syntax of non-conservative construals</em>. The Linguistic Review. doi:10.1515/tlr-2017-0001 <a href="https://www.degruyterbrill.com/document/doi/10.1515/tlr-2017-0001/html" class="quantifiers">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:3fE2CSJIrl8C" class="quantifiers">🎓google scholar</a> 
 - Ahn, Dorothy & Heejeong Ko. 2022. <em class="quantifiers">On non-conservativity of Korean floating quantifiers​</em>. In Glossa. <a href="https://www.glossa-journal.org/article/id/5776/" class="quantifiers">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:W7OEmFMy1HYC" class="quantifiers">🎓google scholar</a>  
 - Ahn, Dorothy. & Uli Sauerland. 2015. <em class="quantifiers">The grammar of relative measurement</em>. Semantics and Linguistic Theory (SALT) 25, 125-142. doi:10.3765/salt.v25i0.3062 <a href="https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/25.125" class="quantifiers">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:2osOgNQ5qMEC" class="quantifiers">🎓google scholar</a> 
-- Ahn, Dorothy. & Uli Sauerland. 2015. <em class="quantifiers">Reverse Quantification with Proportional Quantifiers</em>. NELS 45: Proceedings of the Forty-Fifth Annual Meeting of the North East Linguistic Society, MIT. <a href="https://www.dorothyahn.com/_files/ugd/697a33_5fa95a929a284f1aa471761ebfb22685.pdf" class="quantifiers">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:UeHWp8X0CEIC" class="quantifiers">🎓google scholar</a> 
+- Ahn, Dorothy. & Uli Sauerland. 2015. <em class="quantifiers">Reverse Quantification with Proportional Quantifiers</em>. NELS 45: Proceedings of the Forty-Fifth Annual Meeting of the North East Linguistic Society, MIT. <a href="https://doroahn.github.io/files/nels14paper.pdf" class="quantifiers">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:UeHWp8X0CEIC" class="quantifiers">🎓google scholar</a> 
 
 **<span class="anaphors">Exempt anaphors and logophoricity</span>**
 
 While reflexive anaphors are assumed to be bound locally, there are cases of anaphors that appear outside their binding domain (exempt anaphors). In this line of work, I discuss a case of an exempt anaphor in Korean, caki-casin, and show that the licensing of caki-casin is associated with logophoricity (Charnavel 2012, 2019).
 
 - Ahn, Dorothy. & Isabelle Charnavel. 2017. <em class="anaphors">Perspective on Korean Anaphors: Comparing Inanimate cachey vs. Animate caki-casin</em>. Proceedings of WCCFL34. <a href="http://www.lingref.com/cpp/wccfl/34/paper3292.pdf" class="anaphors">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&citation_for_view=caKoCk4AAAAJ:hqOjcs7Dif8C" class="anaphors">🎓google scholar</a>
-- Ahn, Dorothy. 2016. <em class="anaphors">Empathy and deixis: A deictic analysis of giving verbs</em>. Harvard Working Papers in Linguistics.​ <a href="https://www.dorothyahn.com/_files/ugd/697a33_c32eec1edd074b67970750abea3923e3.pdf" class="anaphors">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&cstart=20&pagesize=80&citation_for_view=caKoCk4AAAAJ:MXK_kJrjxJIC" class="anaphors">🎓google scholar</a>
-- Ahn, Dorothy. 2015. <em class="anaphors">Condition A, Exemption, and Logophoricity in Korean</em>. MS (Generals paper), Harvard. <a href="https://www.dorothyahn.com/_files/ugd/697a33_558f767ac2044b9aab5f2dbccfbf1027.pdf" class="anaphors">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&cstart=20&pagesize=80&citation_for_view=caKoCk4AAAAJ:0EnyYjriUFMC" class="anaphors">🎓google scholar</a>
+- Ahn, Dorothy. 2016. <em class="anaphors">Empathy and deixis: A deictic analysis of giving verbs</em>. Harvard Working Papers in Linguistics.​ <a href="https://doroahn.github.io/files/Ahn_HWPL16_Empathy_and_deixis.pdf" class="anaphors">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&cstart=20&pagesize=80&citation_for_view=caKoCk4AAAAJ:MXK_kJrjxJIC" class="anaphors">🎓google scholar</a>
+- Ahn, Dorothy. 2015. <em class="anaphors">Condition A, Exemption, and Logophoricity in Korean</em>. MS (Generals paper), Harvard. 
 
 **<span class="either">Additive either and too</span>** 
 
