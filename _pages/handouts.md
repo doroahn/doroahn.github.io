@@ -6,7 +6,7 @@ author_profile: true
 
 Handouts for talks
 
-**NYU Semantics Group** | May 1, 2026
+**NYU Semantics Group** \| May 1, 2026
 
 <table>
  <tr>
@@ -19,6 +19,7 @@ Handouts for talks
     </td>
   </tr>
   </table>
+
 
 
 **LENLS21** \| Nagoya University, Japan \| November 28-30, 2025
