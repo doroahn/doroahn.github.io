@@ -4,7 +4,22 @@ title: "Handouts"
 author_profile: true
 ---
 
-Handouts from talks
+Handouts for talks
+
+**NYU Semantics Group** | May 1, 2026
+
+<table>
+ <tr>
+    <td>
+      <strong>Dorothy Ahn</strong><br>
+      Fake nouns: On the role of content in reference
+    </td>
+    <td>
+      <a href="https://doroahn.github.io/files/ahn_2026_nyu_fakenouns.pdf">[pdf]</a>
+    </td>
+  </tr>
+  </table>
+
 
 **LENLS21** \| Nagoya University, Japan \| November 28-30, 2025
 
