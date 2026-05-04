@@ -6,6 +6,31 @@ author_profile: true
 
 Handouts for talks
 
+**WCCFL44** \| Universidad Nacional Autónoma de México (UNAM) \| May 6-8, 2026 
+
+<table>
+ 
+  <tr>
+    <td>
+      <strong>Poster</strong><br>
+      Copy of updated poster
+    </td>
+    <td>
+      <a href="https://doroahn.github.io/files/ahn_wccfl44_poster-updated.pdf">[pdf]</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>Video</strong><br>
+      A video presenting the poster
+    </td>
+    <td>
+      <a href="https://rutgers.zoom.us/rec/play/P2LvN3LzaOYujtku_CaTsiO0aPMZPzoQXhV_4iyPlDf2zbXm3x2aD5428a1rd7P0-65WzYJbLeHBCI19.yOPgn205th5YQKEV">[video]</a>
+    </td>
+  </tr>
+</table>
+
+
 **NYU Semantics Group** \| May 1, 2026
 
 <table>
