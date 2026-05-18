@@ -6,6 +6,22 @@ author_profile: true
 
 Handouts for talks
 
+**SNU Linguistics** \| May 18, 2026
+
+<table>
+ <tr>
+    <td>
+      <strong>Dorothy Ahn</strong><br>
+     Syntax and semantics of reference: Where does Principle C live?
+    </td>
+    <td>
+      <a href="https://doroahn.github.io/files/ahn_2026_snu_principlec.pdf">[pdf]</a>
+    </td>
+  </tr>
+  </table>
+
+
+
 **WCCFL44** \| Universidad Nacional Autónoma de México (UNAM) \| May 6-8, 2026 
 
 <table>
