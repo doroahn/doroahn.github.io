@@ -6,6 +6,23 @@ author_profile: true
 
 Handouts for talks
 
+
+**NYU Semantics Group** \| May 21, 2026
+
+<table>
+ <tr>
+    <td>
+      <strong>Dorothy Ahn</strong><br>
+      Fake nouns: On the role of content in reference
+    </td>
+    <td>
+      <a href="https://doroahn.github.io/files/ahn_2026_red_fakenouns.pdf">[pdf]</a>
+    </td>
+  </tr>
+  </table>
+
+  
+
 **SNU Linguistics** \| May 18, 2026
 
 <table>
@@ -47,19 +64,7 @@ Handouts for talks
 </table>
 
 
-**NYU Semantics Group** \| May 1, 2026
 
-<table>
- <tr>
-    <td>
-      <strong>Dorothy Ahn</strong><br>
-      Fake nouns: On the role of content in reference
-    </td>
-    <td>
-      <a href="https://doroahn.github.io/files/ahn_2026_nyu_fakenouns.pdf">[pdf]</a>
-    </td>
-  </tr>
-  </table>
 
 
 
