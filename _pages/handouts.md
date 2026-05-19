@@ -7,7 +7,7 @@ author_profile: true
 Handouts for talks
 
 
-**NYU Semantics Group** \| May 21, 2026
+**RED 2026** \| Transilvania University of Brașov \| May 21, 2026
 
 <table>
  <tr>
