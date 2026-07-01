@@ -6,7 +6,9 @@ author_profile: true
 
 Handouts for talks
 
-**ICKL 2026** \| University of Sheffield | July 1-3, 2026
+
+
+**ICKL 2026** \| University of Sheffield \| July 1-3, 2026
 
 <table>
  <tr>
