@@ -7,6 +7,21 @@ author_profile: true
 Handouts for talks
 
 
+**JK33** \| University of Illinois Urbana-Champaign  \| Augst 7-10, 2026
+
+<table>
+ <tr>
+    <td>
+      <strong>Dorothy Ahn</strong><br>
+     Fake nouns: The attributive vs. referential dichotomy
+    </td>
+    <td>
+      <a href="https://doroahn.github.io/files/ahn_2026_jk.pdf">[pdf]</a>
+    </td>
+  </tr>
+  </table>
+
+
 
 **ICKL 2026** \| University of Sheffield \| July 1-3, 2026
 
@@ -24,22 +39,6 @@ Handouts for talks
 
 
 
-
-**RED 2026** \| Transilvania University of Brașov \| May 21, 2026
-
-<table>
- <tr>
-    <td>
-      <strong>Dorothy Ahn</strong><br>
-      Fake nouns: On the role of content in reference
-    </td>
-    <td>
-      <a href="https://doroahn.github.io/files/ahn_2026_red_fakenouns.pdf">[pdf]</a>
-    </td>
-  </tr>
-  </table>
-
-  
 
 
 **WCCFL44** \| Universidad Nacional Autónoma de México (UNAM) \| May 6-8, 2026 
@@ -69,21 +68,6 @@ Handouts for talks
 
 
 
-
-
-**LENLS21** \| Nagoya University, Japan \| November 28-30, 2025
-
-<table>
- <tr>
-    <td>
-      <strong>Dorothy Ahn</strong><br>
-      Fake nouns: Reconsidering the role of presuppositions in reference
-    </td>
-    <td>
-      <a href="https://doroahn.github.io/files/ahn_2025_lenls_fakenouns.pdf">[pdf]</a>
-    </td>
-  </tr>
-  </table>
 
 **Sinn und Bedeutung 30** \| Goethe University Frankfurt \| September 23-27, 2025
 
