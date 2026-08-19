@@ -135,7 +135,7 @@ I received my Ph.D in Linguistics from <a href="https://linguistics.fas.harvard.
 Recent News
 ======
 
-🎙️Dorothy Ahn gave an invited talk at <a href="https://publish.illinois.edu/jkconference33/ target="_blank" >**JK 33**</a> on fake nouns, arguing for a uniform analysis of definite expressions based on the attributive vs. referential dichotomy in reference. <a href="https://doroahn.github.io/files/ahn_2026_jk.pdf" target="_blank">[slides]</a> 
+🎙️Dorothy Ahn gave an invited talk at <a href="https://publish.illinois.edu/jkconference33/" target="_blank" >**JK 33**</a> on fake nouns, arguing for a uniform analysis of definite expressions based on the attributive vs. referential dichotomy in reference. <a href="https://doroahn.github.io/files/ahn_2026_jk.pdf" target="_blank">[slides]</a> 
 
 🎉Dorothy Ahn, <a href="https://cogsci.jhu.edu/directory/annemarie-kocab/" target="_blank">Annemarie Kocab</a> and <a href="https://kathryndavidson.scholars.harvard.edu/" target="_blank">Kathryn Davidson</a>'s article on Sign Language Loci is now published in **Language** <a href="https://www.cambridge.org/core/journals/language/article/pragmatics-of-spatial-descriptions-sign-language-loci/51FFFC3016DC611EA8CC58AF6C534C86" target="_blank">[pdf]</a>
 
@@ -176,8 +176,8 @@ Publications
 ​
 **peer-reviewed proceedings**
 - Ahn, Dorothy. to appear. <em class="definiteness">Fake nouns: Reconsidering the role of presupposition in reference</em>. Proceedings of LENLS 21, Nagoya University, Japan 2025. <a href="https://doroahn.github.io/files/ahn_lenls21_proceedings-fakenouns.pdf" target="_blank" class="definiteness">pdf</a>
-- Czarnecki, Vincent and Dorothy Ahn. to appear. <em class="korean">Recycling Spatial Representations for Temporal Interpretations</em>. Proceedings of Sinn und Bedeutung 2025, Goethe University Frankfurt, Germany. <a href="https://doroahn.github.io/files/czarnecki_ahn_2026_sub_spatial.pdf" target="_blank" class="korean">pdf</a>
-- Zhang, Ying and Dorothy Ahn. to appear. <em class="demonstrative">kind-referring demonstratives</em>. Proceedings of Sinn und Bedeutung 2025, Goethe University Frankfurt, Germany. <a href="https://doroahn.github.io/files/zhang_ahn_2026_most-descriptive-depiction.pdf" target="_blank" class="demonstrative">pdf</a>
+- Czarnecki, Vincent and Dorothy Ahn. to appear. <em class="korean">Recycling Spatial Representations for Temporal Interpretations</em>. Proceedings of Sinn und Bedeutung 2025, Goethe University Frankfurt, Germany. <a href="https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/1332/1282" target="_blank" class="korean">pdf</a>
+- Zhang, Ying and Dorothy Ahn. 2026. <em class="demonstrative">kind-referring demonstratives</em>. Proceedings of Sinn und Bedeutung 2025, Goethe University Frankfurt, Germany. <a href="https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/1394/1343" class="demonstratives">pdf</a>
 - Ahn, Dorothy. 2024. <em class="definiteness">A four-way distinction in English definite descriptions</em>. Proceedings of SuB28, University of Bochum, Germany 2023. <a href="https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/1104" class="definiteness">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&cstart=20&pagesize=80&citation_for_view=caKoCk4AAAAJ:qjMakFHDy7sC" class="definiteness">🎓google scholar</a> <a href="javascript:void(0);" class="definiteness" onclick="toggleBib(this)">
     bib
   </a>
