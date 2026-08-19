@@ -135,19 +135,18 @@ I received my Ph.D in Linguistics from <a href="https://linguistics.fas.harvard.
 Recent News
 ======
 
+🎙️Dorothy Ahn gave an invited talk at <a href="https://publish.illinois.edu/jkconference33/ target="_blank" >**JK 33**</a> on fake nouns, arguing for a uniform analysis of definite expressions based on the attributive vs. referential dichotomy in reference. <a href="https://doroahn.github.io/files/ahn_2026_jk.pdf" target="_blank">[slides]</a> 
+
 🎉Dorothy Ahn, <a href="https://cogsci.jhu.edu/directory/annemarie-kocab/" target="_blank">Annemarie Kocab</a> and <a href="https://kathryndavidson.scholars.harvard.edu/" target="_blank">Kathryn Davidson</a>'s article on Sign Language Loci is now published in **Language** <a href="https://www.cambridge.org/core/journals/language/article/pragmatics-of-spatial-descriptions-sign-language-loci/51FFFC3016DC611EA8CC58AF6C534C86" target="_blank">[pdf]</a>
 
 📑Dorothy Ahn and <a href="https://sites.google.com/view/zhuziling/" target="_blank">Ziling Zhu</a>'s article on Mandarin bridging is now published in **Natural Language Semantics** <a href="https://link.springer.com/article/10.1007/s11050-025-09237-8" target="_blank" >[pdf]</a>
 
-🎤Dorothy Ahn and <a href="https://ryanwaltersmith.wixsite.com/home" target="_blank">Ryan Smith</a> presented on <em>Double nominative constructions via trope possession</em> at the 2026 LSA Annual Meeting <a href="https://s3.amazonaws.com/amz.xcdsystem.com/16104503-B526-7178-6F9DFF4569434BDA_abstract_File2317/96_AbstractUpload_0703080649.pdf" target="_blank">[abstract]</a>
-
 🎤Dorothy Ahn and <a href="https://sites.rutgers.edu/maria-kouneli/" target="_blank">Maria Kouneli</a> presented on <em>The semantics of demonstrative spreading in Kipsigis</em> at <a href="https://wp.nyu.edu/artsampscience-nels56/" target="_blank" >NELS56</a> <a href="https://doroahn.github.io/files/ahn-kouneli-2025-nels-kipsigisdem-poster.pdf">[poster]</a>
 
-🎤<a href="https://www.vinczarnecki.com/" target="_blank" >Vincent Czarnecki</a> and Dorothy Ahn to presented on <em>Recycling Spatial Representations for Temporal Interpretations</em> at <strong>SuB 2025</strong> <a href="https://doroahn.github.io/files/czarnecki_ahn_2026_sub_spatial.pdf" target="_blank">[proceedings draft]</a>
+🎤<a href="https://www.vinczarnecki.com/" target="_blank" >Vincent Czarnecki</a> and Dorothy Ahn's SuB 30 proceedings paper on <em>Recycling Spatial Representations for Temporal Interpretations</em> has been published: <a href="https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/1332/1282" target="_blank">[proceedings]</a>
 
-🎤<a href="https://yyyingz.github.io/" target="_blank">Ying Zhang</a> and Dorothy Ahn presented on <em>kind-referring demonstratives</em> at <a href="https://vicom.info/sub30-lingdem/" target="_blank" >LingDem</a>, a special session of <strong>SuB 2025</strong> <a href="https://doroahn.github.io/files/zhang_ahn_2026_most-descriptive-depiction.pdf">[proceedings draft]</a>
+🎤<a href="https://yyyingz.github.io/" target="_blank">Ying Zhang</a> and Dorothy Ahn's SuB 30 proceedings paper on <em>kind-referring demonstratives</em> has been published: <a href="https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/1394/1343">[proceedings]</a>
 
-🎙️Dorothy Ahn gave an invited talk at <a href="https://lenls.github.io/lenls21/" target="_blank" >**LENLS 21**</a> on fake nouns, namely nouns that are bound under focus operators without their content being interpreted in alternatives. <a href="https://lenls.github.io/lenls21/LENLS21OnlineProceedings.pdf" target="_blank">[abstract]</a> <a href="https://doroahn.github.io/files/ahn_lenls21_proceedings-fakenouns.pdf" target="_blank">[proceedings]</a>
 
 
 Publications
