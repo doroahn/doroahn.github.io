@@ -145,7 +145,7 @@ Recent News
 
 🎤<a href="https://www.vinczarnecki.com/" target="_blank" >Vincent Czarnecki</a> and Dorothy Ahn's SuB 30 proceedings paper on <em>Recycling Spatial Representations for Temporal Interpretations</em> has been published: <a href="https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/1332/1282" target="_blank">[proceedings]</a>
 
-🎤<a href="https://yyyingz.github.io/" target="_blank">Ying Zhang</a> and Dorothy Ahn's SuB 30 proceedings paper on <em>kind-referring demonstratives</em> has been published: <a href="https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/1394/1343">[proceedings]</a>
+🎤<a href="https://yyyingz.github.io/" target="_blank">Ying Zhang</a> and Dorothy Ahn's SuB 30 proceedings paper on <em>kind-referring demonstratives</em> has been published: <a href="https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/1394/1343" target="_blank">[proceedings]</a>
 
 
 
@@ -177,7 +177,7 @@ Publications
 **peer-reviewed proceedings**
 - Ahn, Dorothy. to appear. <em class="definiteness">Fake nouns: Reconsidering the role of presupposition in reference</em>. Proceedings of LENLS 21, Nagoya University, Japan 2025. <a href="https://doroahn.github.io/files/ahn_lenls21_proceedings-fakenouns.pdf" target="_blank" class="definiteness">pdf</a>
 - Czarnecki, Vincent and Dorothy Ahn. to appear. <em class="korean">Recycling Spatial Representations for Temporal Interpretations</em>. Proceedings of Sinn und Bedeutung 2025, Goethe University Frankfurt, Germany. <a href="https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/1332/1282" target="_blank" class="korean">pdf</a>
-- Zhang, Ying and Dorothy Ahn. 2026. <em class="demonstrative">kind-referring demonstratives</em>. Proceedings of Sinn und Bedeutung 2025, Goethe University Frankfurt, Germany. <a href="https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/1394/1343" class="demonstratives">pdf</a>
+- Zhang, Ying and Dorothy Ahn. 2026. <em class="demonstrative">kind-referring demonstratives</em>. Proceedings of Sinn und Bedeutung 2025, Goethe University Frankfurt, Germany. <a href="https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/1394/1343" target="_blank" class="demonstrative">pdf</a>
 - Ahn, Dorothy. 2024. <em class="definiteness">A four-way distinction in English definite descriptions</em>. Proceedings of SuB28, University of Bochum, Germany 2023. <a href="https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/1104" class="definiteness">pdf</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=caKoCk4AAAAJ&cstart=20&pagesize=80&citation_for_view=caKoCk4AAAAJ:qjMakFHDy7sC" class="definiteness">🎓google scholar</a> <a href="javascript:void(0);" class="definiteness" onclick="toggleBib(this)">
     bib
   </a>
