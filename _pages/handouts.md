@@ -7,19 +7,29 @@ author_profile: true
 Handouts for talks
 
 
-**JK33** \| University of Illinois Urbana-Champaign  \| Augst 7-10, 2026
+**Graz** \| University of Graz  \| November 24-25, 2026
 
 <table>
- <tr>
+ 
+  <tr>
     <td>
-      <strong>Dorothy Ahn</strong><br>
-     Fake nouns: The attributive vs. referential dichotomy
+      <strong>Workshop</strong><br>
+      The role of deixis in reference
     </td>
     <td>
-      <a href="https://doroahn.github.io/files/ahn_2026_jk.pdf">[pdf]</a>
+      <a href="https://doroahn.github.io/files/ahn_graz-workshop.pdf">[pdf]</a>
     </td>
   </tr>
-  </table>
+  <tr>
+    <td>
+      <strong>Colloquium</strong><br>
+      to be updated
+    </td>
+    <td>
+      [pdf]
+    </td>
+  </tr>
+</table>
 
 
 
