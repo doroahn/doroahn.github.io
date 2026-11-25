@@ -23,10 +23,10 @@ Handouts for talks
   <tr>
     <td>
       <strong>Colloquium</strong><br>
-      <a href="https://doroahn.github.io/files/ahn_2026_graz.pdf">[pdf]</a>
+      Fake nouns: On the role of content in reference
     </td>
     <td>
-      [pdf]
+      <a href="https://doroahn.github.io/files/ahn_2026_graz.pdf">[pdf]</a>
     </td>
   </tr>
 </table>
