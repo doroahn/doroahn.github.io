@@ -23,7 +23,7 @@ Handouts for talks
   <tr>
     <td>
       <strong>Colloquium</strong><br>
-      to be updated
+      <a href="https://doroahn.github.io/files/ahn_2026_graz.pdf">[pdf]</a>
     </td>
     <td>
       [pdf]
